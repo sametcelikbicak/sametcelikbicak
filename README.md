@@ -32,3 +32,13 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/sametcelikbicak">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sametcelikbicak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sametcelikbicak&layout=compact&langs_count=20&theme=algolia"/>
+</a>
+</p>
