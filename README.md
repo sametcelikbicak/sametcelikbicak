@@ -42,3 +42,10 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametcelikbicak&layout=compact&langs_count=20&theme=algolia"/>
 </a>
 </p>
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://sametcelikbicak.com)
