@@ -1,4 +1,10 @@
 ### Hi there 👋
+#### I am a developer from Izmir, Turkey 🇹🇷 I work with Angular, TypeScript, C#, HTML, CSS and JavaScript technologies
+
+- 👨‍💻 I’m currently working on Angular, TypeScript, C#, HTML, CSS and JavaScript technologies.
+- 🌱 I’m currently learning new technologies and more.
+- 📫 How to reach me: [Twitter](https://twitter.com/sametcelikbicak) | [LinkedIn](https://www.linkedin.com/in/sametcelikbicak) | [YouTube](https://www.youtube.com/channel/UCS_Lum6iidluJodda7T7WKA) | [GitHub](https://github.com/sametcelikbicak) | [WebSite](https://sametcelikbicak.com/)
+
 
 
 <!--
