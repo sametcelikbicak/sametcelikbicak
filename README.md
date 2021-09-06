@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack &nbsp; 🧰
 
 
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/sametcelikbicak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sametcelikbicak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametcelikbicak&layout=compact&langs_count=20&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametcelikbicak&layout=compact&langs_count=20&theme=algolia&hide=Jupyter%20Notebook"/>
 </a>
 </p>
 
-### 📕 Latest Blog Posts
+### 📚 &nbsp; Latest Blog Posts &nbsp; 📚
 
 <!-- BLOG-POST-LIST:START -->
 - [Angular custom pipe](https://sametcelikbicak.com/angular-custom-pipe)
