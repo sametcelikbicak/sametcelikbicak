@@ -62,4 +62,9 @@ Here are some ideas to get you started:
 ➡️ [more blog posts...](https://sametcelikbicak.com)
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#39](https://github.com/celikbicak/angular-template/pull/39) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+2. 💪 Opened PR [#38](https://github.com/celikbicak/angular-template/pull/38) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+3. ❗️ Opened issue [#37](https://github.com/celikbicak/angular-template/issues/37) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+4. 🎉 Merged PR [#36](https://github.com/celikbicak/angular-template/pull/36) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+5. ❗️ Closed issue [#35](https://github.com/celikbicak/angular-template/issues/35) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
 <!--END_SECTION:activity-->
