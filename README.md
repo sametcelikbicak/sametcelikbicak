@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 ➡️ [more blog posts...](https://sametcelikbicak.com)
 
+### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#39](https://github.com/celikbicak/angular-template/pull/39) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
 2. 💪 Opened PR [#38](https://github.com/celikbicak/angular-template/pull/38) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
