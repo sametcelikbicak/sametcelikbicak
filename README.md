@@ -60,3 +60,6 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://sametcelikbicak.com)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
