@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Samet ÇELİKBIÇAK 👋
 #### I am a developer from Izmir, Turkey 🇹🇷 I work with Angular, TypeScript, C#, HTML, CSS and JavaScript technologies
 
 - 👨‍💻 I’m currently working on Angular, TypeScript, C#, HTML, CSS and JavaScript technologies.
