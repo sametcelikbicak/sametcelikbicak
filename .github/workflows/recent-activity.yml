@@ -16,5 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Recent activity(ies) was added'
-          MAX_LINES: 10
+          COMMIT_MSG: '⚡️ Recent activity(ies) was added'
