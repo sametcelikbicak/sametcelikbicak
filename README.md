@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/celikbicak/angular-template/issues/40) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+1. 💪 Opened PR [#41](https://github.com/celikbicak/angular-template/pull/41) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
 2. 🗣 Commented on [#40](https://github.com/celikbicak/angular-template/issues/40) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-3. 🗣 Commented on [#49](https://github.com/withfig/fig/issues/49) in [withfig/fig](https://github.com/withfig/fig)
-4. ❗️ Opened issue [#40](https://github.com/celikbicak/angular-template/issues/40) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-5. 💪 Opened PR [#39](https://github.com/celikbicak/angular-template/pull/39) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+3. 🗣 Commented on [#40](https://github.com/celikbicak/angular-template/issues/40) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+4. 🗣 Commented on [#49](https://github.com/withfig/fig/issues/49) in [withfig/fig](https://github.com/withfig/fig)
+5. ❗️ Opened issue [#40](https://github.com/celikbicak/angular-template/issues/40) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
 <!--END_SECTION:activity-->
