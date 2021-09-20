@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/sametcelikbicak/storage-function/issues/28) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-2. ❗️ Opened issue [#32](https://github.com/sametcelikbicak/enum2array/issues/32) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-3. 💪 Opened PR [#41](https://github.com/celikbicak/angular-template/pull/41) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-4. 🗣 Commented on [#40](https://github.com/celikbicak/angular-template/issues/40) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+1. 💪 Opened PR [#42](https://github.com/celikbicak/angular-template/pull/42) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+2. ❗️ Opened issue [#28](https://github.com/sametcelikbicak/storage-function/issues/28) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+3. ❗️ Opened issue [#32](https://github.com/sametcelikbicak/enum2array/issues/32) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+4. 💪 Opened PR [#41](https://github.com/celikbicak/angular-template/pull/41) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
 5. 🗣 Commented on [#40](https://github.com/celikbicak/angular-template/issues/40) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
 <!--END_SECTION:activity-->
