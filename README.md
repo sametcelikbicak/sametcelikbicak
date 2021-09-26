@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/celikbicak/angular-template/pull/44) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-2. 💪 Opened PR [#42](https://github.com/celikbicak/angular-template/pull/42) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-3. ❗️ Opened issue [#28](https://github.com/sametcelikbicak/storage-function/issues/28) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-4. ❗️ Opened issue [#32](https://github.com/sametcelikbicak/enum2array/issues/32) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-5. 💪 Opened PR [#41](https://github.com/celikbicak/angular-template/pull/41) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+1. 🎉 Merged PR [#35](https://github.com/sametcelikbicak/enum2array/pull/35) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+2. 🎉 Merged PR [#34](https://github.com/sametcelikbicak/enum2array/pull/34) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+3. 🎉 Merged PR [#33](https://github.com/sametcelikbicak/enum2array/pull/33) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+4. ❗️ Closed issue [#32](https://github.com/sametcelikbicak/enum2array/issues/32) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+5. 💪 Opened PR [#33](https://github.com/sametcelikbicak/enum2array/pull/33) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
 <!--END_SECTION:activity-->
