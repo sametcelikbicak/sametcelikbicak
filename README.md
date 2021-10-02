@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/sametcelikbicak/enum2array/pull/36) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-2. 🎉 Merged PR [#37](https://github.com/sametcelikbicak/enum2array/pull/37) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-3. 🎉 Merged PR [#38](https://github.com/sametcelikbicak/enum2array/pull/38) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-4. 🎉 Merged PR [#39](https://github.com/sametcelikbicak/enum2array/pull/39) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-5. 🎉 Merged PR [#40](https://github.com/sametcelikbicak/enum2array/pull/40) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+1. 🎉 Merged PR [#37](https://github.com/sametcelikbicak/storage-function/pull/37) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+2. 🎉 Merged PR [#36](https://github.com/sametcelikbicak/storage-function/pull/36) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+3. 🎉 Merged PR [#35](https://github.com/sametcelikbicak/storage-function/pull/35) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+4. 🎉 Merged PR [#34](https://github.com/sametcelikbicak/storage-function/pull/34) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+5. 🎉 Merged PR [#33](https://github.com/sametcelikbicak/storage-function/pull/33) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
 <!--END_SECTION:activity-->
