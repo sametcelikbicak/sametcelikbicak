@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/sametcelikbicak/storage-function/pull/42) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-2. 🎉 Merged PR [#41](https://github.com/sametcelikbicak/storage-function/pull/41) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-3. 🎉 Merged PR [#40](https://github.com/sametcelikbicak/storage-function/pull/40) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-4. 🎉 Merged PR [#39](https://github.com/sametcelikbicak/storage-function/pull/39) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-5. 🎉 Merged PR [#43](https://github.com/sametcelikbicak/enum2array/pull/43) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+1. 🎉 Merged PR [#61](https://github.com/celikbicak/angular-template/pull/61) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+2. 🎉 Merged PR [#60](https://github.com/celikbicak/angular-template/pull/60) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+3. 🎉 Merged PR [#58](https://github.com/celikbicak/angular-template/pull/58) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+4. 🎉 Merged PR [#57](https://github.com/celikbicak/angular-template/pull/57) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+5. 🎉 Merged PR [#56](https://github.com/celikbicak/angular-template/pull/56) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
 <!--END_SECTION:activity-->
