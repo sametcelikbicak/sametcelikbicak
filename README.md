@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 ### 📚 &nbsp; Latest Blog Posts &nbsp; 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Terminal ile takma ad ve fonksiyon kullanımı](https://sametcelikbicak.com/terminal-ile-takma-ad-ve-fonksiyon-kullanimi)
 - [Angular library oluşturma ve Npm üzerinde yayınlama](https://sametcelikbicak.com/angular-library-olusturma-ve-npm-uzerinde-yayinlama)
 - [Angular custom interceptor](https://sametcelikbicak.com/angular-custom-interceptor)
 - [Angular custom pipe](https://sametcelikbicak.com/angular-custom-pipe)
 - [Yazılımcılar için faydalı web siteleri](https://sametcelikbicak.com/yazilimcilar-icin-faydali-web-siteleri)
-- [Angular ile Storage Servis hazırlama ve kullanma](https://sametcelikbicak.com/angular-ile-storage-servis-hazirlama-ve-kullanma)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://sametcelikbicak.com)
