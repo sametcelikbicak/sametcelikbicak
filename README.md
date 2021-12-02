@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/celikbicak/angular-template/pull/61) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-2. 🎉 Merged PR [#60](https://github.com/celikbicak/angular-template/pull/60) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-3. 🎉 Merged PR [#58](https://github.com/celikbicak/angular-template/pull/58) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-4. 🎉 Merged PR [#57](https://github.com/celikbicak/angular-template/pull/57) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-5. 🎉 Merged PR [#56](https://github.com/celikbicak/angular-template/pull/56) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+1. 🗣 Commented on [#49](https://github.com/withfig/fig/issues/49) in [withfig/fig](https://github.com/withfig/fig)
+2. 🎉 Merged PR [#61](https://github.com/celikbicak/angular-template/pull/61) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+3. 🎉 Merged PR [#60](https://github.com/celikbicak/angular-template/pull/60) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+4. 🎉 Merged PR [#58](https://github.com/celikbicak/angular-template/pull/58) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+5. 🎉 Merged PR [#57](https://github.com/celikbicak/angular-template/pull/57) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
 <!--END_SECTION:activity-->
