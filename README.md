@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/withfig/fig/issues/49) in [withfig/fig](https://github.com/withfig/fig)
-2. 🎉 Merged PR [#61](https://github.com/celikbicak/angular-template/pull/61) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-3. 🎉 Merged PR [#60](https://github.com/celikbicak/angular-template/pull/60) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-4. 🎉 Merged PR [#58](https://github.com/celikbicak/angular-template/pull/58) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-5. 🎉 Merged PR [#57](https://github.com/celikbicak/angular-template/pull/57) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+1. 🎉 Merged PR [#48](https://github.com/sametcelikbicak/storage-function/pull/48) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+2. 🎉 Merged PR [#47](https://github.com/sametcelikbicak/storage-function/pull/47) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+3. 🎉 Merged PR [#46](https://github.com/sametcelikbicak/storage-function/pull/46) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+4. 🎉 Merged PR [#45](https://github.com/sametcelikbicak/storage-function/pull/45) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+5. 🎉 Merged PR [#44](https://github.com/sametcelikbicak/storage-function/pull/44) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
 <!--END_SECTION:activity-->
