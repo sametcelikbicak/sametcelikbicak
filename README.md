@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/sametcelikbicak/storage-function/pull/48) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-2. 🎉 Merged PR [#47](https://github.com/sametcelikbicak/storage-function/pull/47) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-3. 🎉 Merged PR [#46](https://github.com/sametcelikbicak/storage-function/pull/46) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-4. 🎉 Merged PR [#45](https://github.com/sametcelikbicak/storage-function/pull/45) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-5. 🎉 Merged PR [#44](https://github.com/sametcelikbicak/storage-function/pull/44) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+1. 🎉 Merged PR [#52](https://github.com/sametcelikbicak/enum2array/pull/52) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+2. 🎉 Merged PR [#51](https://github.com/sametcelikbicak/enum2array/pull/51) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+3. 🎉 Merged PR [#50](https://github.com/sametcelikbicak/enum2array/pull/50) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+4. 🎉 Merged PR [#49](https://github.com/sametcelikbicak/enum2array/pull/49) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+5. 🎉 Merged PR [#48](https://github.com/sametcelikbicak/enum2array/pull/48) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
 <!--END_SECTION:activity-->
