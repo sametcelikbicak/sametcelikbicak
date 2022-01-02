@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/sametcelikbicak/enum2array/pull/58) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-2. 🎉 Merged PR [#57](https://github.com/sametcelikbicak/enum2array/pull/57) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-3. 🎉 Merged PR [#56](https://github.com/sametcelikbicak/enum2array/pull/56) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-4. 🎉 Merged PR [#55](https://github.com/sametcelikbicak/enum2array/pull/55) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-5. 🎉 Merged PR [#54](https://github.com/sametcelikbicak/enum2array/pull/54) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+1. 🎉 Merged PR [#76](https://github.com/celikbicak/angular-template/pull/76) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+2. 🎉 Merged PR [#75](https://github.com/celikbicak/angular-template/pull/75) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+3. 🎉 Merged PR [#74](https://github.com/celikbicak/angular-template/pull/74) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+4. 🎉 Merged PR [#73](https://github.com/celikbicak/angular-template/pull/73) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+5. 🎉 Merged PR [#72](https://github.com/celikbicak/angular-template/pull/72) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
 <!--END_SECTION:activity-->
