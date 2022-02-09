@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/sametcelikbicak/angular-ngrx-usage/pull/2) in [sametcelikbicak/angular-ngrx-usage](https://github.com/sametcelikbicak/angular-ngrx-usage)
-2. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/angular-ngrx-usage/pull/1) in [sametcelikbicak/angular-ngrx-usage](https://github.com/sametcelikbicak/angular-ngrx-usage)
-3. 🎉 Merged PR [#76](https://github.com/celikbicak/angular-template/pull/76) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-4. 🎉 Merged PR [#75](https://github.com/celikbicak/angular-template/pull/75) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-5. 🎉 Merged PR [#74](https://github.com/celikbicak/angular-template/pull/74) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+1. 🎉 Merged PR [#56](https://github.com/sametcelikbicak/storage-function/pull/56) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+2. 🎉 Merged PR [#55](https://github.com/sametcelikbicak/storage-function/pull/55) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+3. 🎉 Merged PR [#2](https://github.com/sametcelikbicak/angular-ngrx-usage/pull/2) in [sametcelikbicak/angular-ngrx-usage](https://github.com/sametcelikbicak/angular-ngrx-usage)
+4. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/angular-ngrx-usage/pull/1) in [sametcelikbicak/angular-ngrx-usage](https://github.com/sametcelikbicak/angular-ngrx-usage)
+5. 🎉 Merged PR [#76](https://github.com/celikbicak/angular-template/pull/76) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
 <!--END_SECTION:activity-->
