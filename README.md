@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#887](https://github.com/github/training-kit/pull/887) in [github/training-kit](https://github.com/github/training-kit)
-2. 🎉 Merged PR [#62](https://github.com/sametcelikbicak/enum2array/pull/62) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-3. 🎉 Merged PR [#61](https://github.com/sametcelikbicak/enum2array/pull/61) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-4. 🎉 Merged PR [#60](https://github.com/sametcelikbicak/enum2array/pull/60) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-5. 🎉 Merged PR [#59](https://github.com/sametcelikbicak/enum2array/pull/59) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+1. 🗣 Commented on [#49](https://github.com/withfig/fig/issues/49) in [withfig/fig](https://github.com/withfig/fig)
+2. 💪 Opened PR [#887](https://github.com/github/training-kit/pull/887) in [github/training-kit](https://github.com/github/training-kit)
+3. 🎉 Merged PR [#62](https://github.com/sametcelikbicak/enum2array/pull/62) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+4. 🎉 Merged PR [#61](https://github.com/sametcelikbicak/enum2array/pull/61) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+5. 🎉 Merged PR [#60](https://github.com/sametcelikbicak/enum2array/pull/60) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
 <!--END_SECTION:activity-->
