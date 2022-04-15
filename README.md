@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### 📚 &nbsp; Latest Blog Posts &nbsp; 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular custom decorator](https://sametcelikbicak.com/angular-custom-decorator)
 - [Angular custom guard](https://sametcelikbicak.com/angular-custom-guard)
 - [Angular form kullanımı](https://sametcelikbicak.com/angular-form-kullanimi)
 - [Angular ile NGRX kullanımı](https://sametcelikbicak.com/angular-ile-ngrx-kullanimi)
 - [Angular ile ng-content kullanımı](https://sametcelikbicak.com/angular-ile-ng-content-kullanimi)
-- [Terminal ile takma ad ve fonksiyon kullanımı](https://sametcelikbicak.com/terminal-ile-takma-ad-ve-fonksiyon-kullanimi)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://sametcelikbicak.com)
