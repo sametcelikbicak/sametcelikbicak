@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#98](https://github.com/celikbicak/angular-template/pull/98) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-2. 🎉 Merged PR [#2](https://github.com/sametcelikbicak/angular-guard-usage/pull/2) in [sametcelikbicak/angular-guard-usage](https://github.com/sametcelikbicak/angular-guard-usage)
-3. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/angular-guard-usage/pull/1) in [sametcelikbicak/angular-guard-usage](https://github.com/sametcelikbicak/angular-guard-usage)
-4. 🎉 Merged PR [#7](https://github.com/sametcelikbicak/angular-ngrx-usage/pull/7) in [sametcelikbicak/angular-ngrx-usage](https://github.com/sametcelikbicak/angular-ngrx-usage)
-5. 🎉 Merged PR [#6](https://github.com/sametcelikbicak/angular-ngrx-usage/pull/6) in [sametcelikbicak/angular-ngrx-usage](https://github.com/sametcelikbicak/angular-ngrx-usage)
+1. 🗣 Commented on [#49](https://github.com/withfig/fig/issues/49) in [withfig/fig](https://github.com/withfig/fig)
+2. 🎉 Merged PR [#98](https://github.com/celikbicak/angular-template/pull/98) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+3. 🎉 Merged PR [#2](https://github.com/sametcelikbicak/angular-guard-usage/pull/2) in [sametcelikbicak/angular-guard-usage](https://github.com/sametcelikbicak/angular-guard-usage)
+4. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/angular-guard-usage/pull/1) in [sametcelikbicak/angular-guard-usage](https://github.com/sametcelikbicak/angular-guard-usage)
+5. 🎉 Merged PR [#7](https://github.com/sametcelikbicak/angular-ngrx-usage/pull/7) in [sametcelikbicak/angular-ngrx-usage](https://github.com/sametcelikbicak/angular-ngrx-usage)
 <!--END_SECTION:activity-->
