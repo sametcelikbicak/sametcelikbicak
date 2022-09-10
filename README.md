@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8296](https://github.com/badges/shields/issues/8296) in [badges/shields](https://github.com/badges/shields)
-2. ❗️ Opened issue [#8296](https://github.com/badges/shields/issues/8296) in [badges/shields](https://github.com/badges/shields)
-3. 🎉 Merged PR [#119](https://github.com/celikbicak/angular-template/pull/119) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-4. 🎉 Merged PR [#73](https://github.com/sametcelikbicak/storage-function/pull/73) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-5. 🎉 Merged PR [#77](https://github.com/sametcelikbicak/enum2array/pull/77) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+1. 🎉 Merged PR [#74](https://github.com/sametcelikbicak/storage-function/pull/74) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+2. 🎉 Merged PR [#78](https://github.com/sametcelikbicak/enum2array/pull/78) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+3. 🗣 Commented on [#8296](https://github.com/badges/shields/issues/8296) in [badges/shields](https://github.com/badges/shields)
+4. ❗️ Opened issue [#8296](https://github.com/badges/shields/issues/8296) in [badges/shields](https://github.com/badges/shields)
+5. 🎉 Merged PR [#119](https://github.com/celikbicak/angular-template/pull/119) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
 <!--END_SECTION:activity-->
