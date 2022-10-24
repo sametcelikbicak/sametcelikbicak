@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/sametcelikbicak/tsci/issues/7) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-2. ❗️ Opened issue [#6](https://github.com/sametcelikbicak/tsci/issues/6) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-3. ❗️ Opened issue [#78](https://github.com/sametcelikbicak/storage-function/issues/78) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-4. ❗️ Opened issue [#5](https://github.com/sametcelikbicak/tsci/issues/5) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-5. ❗️ Opened issue [#77](https://github.com/sametcelikbicak/storage-function/issues/77) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+1. ❗️ Closed issue [#80](https://github.com/sametcelikbicak/enum2array/issues/80) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+2. 🎉 Merged PR [#83](https://github.com/sametcelikbicak/enum2array/pull/83) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+3. 💪 Opened PR [#83](https://github.com/sametcelikbicak/enum2array/pull/83) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+4. ❗️ Opened issue [#7](https://github.com/sametcelikbicak/tsci/issues/7) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+5. ❗️ Opened issue [#6](https://github.com/sametcelikbicak/tsci/issues/6) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
 <!--END_SECTION:activity-->
