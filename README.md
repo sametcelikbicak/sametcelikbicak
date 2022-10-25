@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#81](https://github.com/sametcelikbicak/storage-function/pull/81) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-2. ❗️ Closed issue [#77](https://github.com/sametcelikbicak/storage-function/issues/77) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-3. 🎉 Merged PR [#80](https://github.com/sametcelikbicak/storage-function/pull/80) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-4. 💪 Opened PR [#80](https://github.com/sametcelikbicak/storage-function/pull/80) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-5. ❗️ Closed issue [#76](https://github.com/sametcelikbicak/storage-function/issues/76) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+1. 🎉 Merged PR [#82](https://github.com/sametcelikbicak/storage-function/pull/82) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+2. ❗️ Closed issue [#78](https://github.com/sametcelikbicak/storage-function/issues/78) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+3. 🎉 Merged PR [#81](https://github.com/sametcelikbicak/storage-function/pull/81) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+4. 🗣 Commented on [#81](https://github.com/sametcelikbicak/storage-function/issues/81) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+5. 💪 Opened PR [#81](https://github.com/sametcelikbicak/storage-function/pull/81) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
 <!--END_SECTION:activity-->
