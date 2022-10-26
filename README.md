@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/sametcelikbicak/tsci/pull/8) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-2. ❗️ Closed issue [#5](https://github.com/sametcelikbicak/tsci/issues/5) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-3. 💪 Opened PR [#8](https://github.com/sametcelikbicak/tsci/pull/8) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-4. 🎉 Merged PR [#82](https://github.com/sametcelikbicak/storage-function/pull/82) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-5. ❗️ Closed issue [#78](https://github.com/sametcelikbicak/storage-function/issues/78) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+1. ❗️ Opened issue [#12](https://github.com/sametcelikbicak/tsci/issues/12) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+2. ❗️ Opened issue [#11](https://github.com/sametcelikbicak/tsci/issues/11) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+3. ❗️ Opened issue [#10](https://github.com/sametcelikbicak/tsci/issues/10) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+4. 🎉 Merged PR [#9](https://github.com/sametcelikbicak/tsci/pull/9) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+5. ❗️ Closed issue [#6](https://github.com/sametcelikbicak/tsci/issues/6) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
 <!--END_SECTION:activity-->
