@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2236](https://github.com/vitest-dev/vitest/issues/2236) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-2. ❗️ Closed issue [#11](https://github.com/sametcelikbicak/tsci/issues/11) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-3. 🎉 Merged PR [#17](https://github.com/sametcelikbicak/tsci/pull/17) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-4. 💪 Opened PR [#17](https://github.com/sametcelikbicak/tsci/pull/17) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-5. 🎉 Merged PR [#16](https://github.com/sametcelikbicak/tsci/pull/16) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+1. ❗️ Closed issue [#12](https://github.com/sametcelikbicak/tsci/issues/12) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+2. 🎉 Merged PR [#18](https://github.com/sametcelikbicak/tsci/pull/18) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+3. 💪 Opened PR [#18](https://github.com/sametcelikbicak/tsci/pull/18) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+4. ❗️ Opened issue [#2236](https://github.com/vitest-dev/vitest/issues/2236) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+5. ❗️ Closed issue [#11](https://github.com/sametcelikbicak/tsci/issues/11) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
 <!--END_SECTION:activity-->
