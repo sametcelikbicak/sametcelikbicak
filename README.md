@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/sametcelikbicak/tsci/pull/20) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-2. 💪 Opened PR [#20](https://github.com/sametcelikbicak/tsci/pull/20) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-3. 🎉 Merged PR [#19](https://github.com/sametcelikbicak/tsci/pull/19) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-4. 💪 Opened PR [#19](https://github.com/sametcelikbicak/tsci/pull/19) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-5. ❗️ Closed issue [#12](https://github.com/sametcelikbicak/tsci/issues/12) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+1. ❌ Closed PR [#129](https://github.com/celikbicak/angular-template/pull/129) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+2. ❗️ Closed issue [#54](https://github.com/celikbicak/angular-template/issues/54) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+3. ❗️ Closed issue [#16](https://github.com/celikbicak/angular-template/issues/16) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+4. ❗️ Closed issue [#15](https://github.com/celikbicak/angular-template/issues/15) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+5. ❗️ Closed issue [#14](https://github.com/celikbicak/angular-template/issues/14) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
 <!--END_SECTION:activity-->
