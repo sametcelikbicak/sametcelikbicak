@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/typescript-rollup/pull/1) in [sametcelikbicak/typescript-rollup](https://github.com/sametcelikbicak/typescript-rollup)
-2. 💪 Opened PR [#1](https://github.com/sametcelikbicak/typescript-rollup/pull/1) in [sametcelikbicak/typescript-rollup](https://github.com/sametcelikbicak/typescript-rollup)
-3. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/typescript-snowpack/pull/1) in [sametcelikbicak/typescript-snowpack](https://github.com/sametcelikbicak/typescript-snowpack)
-4. 💪 Opened PR [#1](https://github.com/sametcelikbicak/typescript-snowpack/pull/1) in [sametcelikbicak/typescript-snowpack](https://github.com/sametcelikbicak/typescript-snowpack)
-5. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/typescript-parcel/pull/1) in [sametcelikbicak/typescript-parcel](https://github.com/sametcelikbicak/typescript-parcel)
+1. ❗️ Opened issue [#2248](https://github.com/anuraghazra/github-readme-stats/issues/2248) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/typescript-rollup/pull/1) in [sametcelikbicak/typescript-rollup](https://github.com/sametcelikbicak/typescript-rollup)
+3. 💪 Opened PR [#1](https://github.com/sametcelikbicak/typescript-rollup/pull/1) in [sametcelikbicak/typescript-rollup](https://github.com/sametcelikbicak/typescript-rollup)
+4. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/typescript-snowpack/pull/1) in [sametcelikbicak/typescript-snowpack](https://github.com/sametcelikbicak/typescript-snowpack)
+5. 💪 Opened PR [#1](https://github.com/sametcelikbicak/typescript-snowpack/pull/1) in [sametcelikbicak/typescript-snowpack](https://github.com/sametcelikbicak/typescript-snowpack)
 <!--END_SECTION:activity-->
