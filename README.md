@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/sametcelikbicak/pull/1) in [sametcelikbicak/sametcelikbicak](https://github.com/sametcelikbicak/sametcelikbicak)
-2. 💪 Opened PR [#1](https://github.com/sametcelikbicak/sametcelikbicak/pull/1) in [sametcelikbicak/sametcelikbicak](https://github.com/sametcelikbicak/sametcelikbicak)
-3. 🎉 Merged PR [#21](https://github.com/sametcelikbicak/tsci/pull/21) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-4. 💪 Opened PR [#21](https://github.com/sametcelikbicak/tsci/pull/21) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-5. ❌ Closed PR [#129](https://github.com/celikbicak/angular-template/pull/129) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+1. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/typescript-vite/pull/1) in [sametcelikbicak/typescript-vite](https://github.com/sametcelikbicak/typescript-vite)
+2. 💪 Opened PR [#1](https://github.com/sametcelikbicak/typescript-vite/pull/1) in [sametcelikbicak/typescript-vite](https://github.com/sametcelikbicak/typescript-vite)
+3. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/sametcelikbicak/pull/1) in [sametcelikbicak/sametcelikbicak](https://github.com/sametcelikbicak/sametcelikbicak)
+4. 💪 Opened PR [#1](https://github.com/sametcelikbicak/sametcelikbicak/pull/1) in [sametcelikbicak/sametcelikbicak](https://github.com/sametcelikbicak/sametcelikbicak)
+5. 🎉 Merged PR [#21](https://github.com/sametcelikbicak/tsci/pull/21) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
 <!--END_SECTION:activity-->
