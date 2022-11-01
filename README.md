@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/sametcelikbicak/tsci/pull/21) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-2. 💪 Opened PR [#21](https://github.com/sametcelikbicak/tsci/pull/21) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-3. ❌ Closed PR [#129](https://github.com/celikbicak/angular-template/pull/129) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-4. ❗️ Closed issue [#54](https://github.com/celikbicak/angular-template/issues/54) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
-5. ❗️ Closed issue [#16](https://github.com/celikbicak/angular-template/issues/16) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
+1. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/sametcelikbicak/pull/1) in [sametcelikbicak/sametcelikbicak](https://github.com/sametcelikbicak/sametcelikbicak)
+2. 💪 Opened PR [#1](https://github.com/sametcelikbicak/sametcelikbicak/pull/1) in [sametcelikbicak/sametcelikbicak](https://github.com/sametcelikbicak/sametcelikbicak)
+3. 🎉 Merged PR [#21](https://github.com/sametcelikbicak/tsci/pull/21) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+4. 💪 Opened PR [#21](https://github.com/sametcelikbicak/tsci/pull/21) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+5. ❌ Closed PR [#129](https://github.com/celikbicak/angular-template/pull/129) in [celikbicak/angular-template](https://github.com/celikbicak/angular-template)
 <!--END_SECTION:activity-->
