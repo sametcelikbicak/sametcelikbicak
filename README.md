@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working on Angular, TypeScript, C#, HTML, CSS and JavaScript technologies.
 - 🌱 I’m currently learning new technologies and more.
-- 📫 How to reach me: [Twitter](https://twitter.com/sametcelikbicak) | [LinkedIn](https://www.linkedin.com/in/sametcelikbicak) | [YouTube](https://www.youtube.com/channel/UCS_Lum6iidluJodda7T7WKA) | [GitHub](https://github.com/sametcelikbicak) | [WebSite](https://sametcelikbicak.com/)
+- 📫 How to reach me: [Twitter](https://twitter.com/sametcelikbicak) | [LinkedIn](https://www.linkedin.com/in/sametcelikbicak) | [YouTube](https://www.youtube.com/@sametcelikbicak) | [GitHub](https://github.com/sametcelikbicak) | [WebSite](https://sametcelikbicak.com/)
 
 <a href="https://www.buymeacoffee.com/sametcelikbicak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
@@ -39,11 +39,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
