@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/sametcelikbicak/tsci/pull/22) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-2. 💪 Opened PR [#22](https://github.com/sametcelikbicak/tsci/pull/22) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-3. ❗️ Opened issue [#2248](https://github.com/anuraghazra/github-readme-stats/issues/2248) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/typescript-rollup/pull/1) in [sametcelikbicak/typescript-rollup](https://github.com/sametcelikbicak/typescript-rollup)
-5. 💪 Opened PR [#1](https://github.com/sametcelikbicak/typescript-rollup/pull/1) in [sametcelikbicak/typescript-rollup](https://github.com/sametcelikbicak/typescript-rollup)
+1. 🎉 Merged PR [#23](https://github.com/sametcelikbicak/tsci/pull/23) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+2. 🎉 Merged PR [#22](https://github.com/sametcelikbicak/tsci/pull/22) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+3. 💪 Opened PR [#22](https://github.com/sametcelikbicak/tsci/pull/22) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+4. ❗️ Opened issue [#2248](https://github.com/anuraghazra/github-readme-stats/issues/2248) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+5. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/typescript-rollup/pull/1) in [sametcelikbicak/typescript-rollup](https://github.com/sametcelikbicak/typescript-rollup)
 <!--END_SECTION:activity-->
