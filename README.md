@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/gniziemazity/Self-driving-car/pull/4) in [gniziemazity/Self-driving-car](https://github.com/gniziemazity/Self-driving-car)
-2. 🎉 Merged PR [#27](https://github.com/sametcelikbicak/tsci/pull/27) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-3. 🎉 Merged PR [#26](https://github.com/sametcelikbicak/tsci/pull/26) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-4. 🎉 Merged PR [#25](https://github.com/sametcelikbicak/tsci/pull/25) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-5. 🎉 Merged PR [#24](https://github.com/sametcelikbicak/tsci/pull/24) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+1. 🎉 Merged PR [#29](https://github.com/sametcelikbicak/tsci/pull/29) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+2. 💪 Opened PR [#29](https://github.com/sametcelikbicak/tsci/pull/29) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+3. 💪 Opened PR [#4](https://github.com/gniziemazity/Self-driving-car/pull/4) in [gniziemazity/Self-driving-car](https://github.com/gniziemazity/Self-driving-car)
+4. 🎉 Merged PR [#27](https://github.com/sametcelikbicak/tsci/pull/27) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+5. 🎉 Merged PR [#26](https://github.com/sametcelikbicak/tsci/pull/26) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
 <!--END_SECTION:activity-->
