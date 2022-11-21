@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/sametcelikbicak/tsci/pull/30) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-2. 💪 Opened PR [#30](https://github.com/sametcelikbicak/tsci/pull/30) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-3. 🎉 Merged PR [#29](https://github.com/sametcelikbicak/tsci/pull/29) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-4. 💪 Opened PR [#29](https://github.com/sametcelikbicak/tsci/pull/29) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-5. 💪 Opened PR [#4](https://github.com/gniziemazity/Self-driving-car/pull/4) in [gniziemazity/Self-driving-car](https://github.com/gniziemazity/Self-driving-car)
+1. 🎉 Merged PR [#2](https://github.com/sametcelikbicak/typescript-snowpack/pull/2) in [sametcelikbicak/typescript-snowpack](https://github.com/sametcelikbicak/typescript-snowpack)
+2. 🎉 Merged PR [#30](https://github.com/sametcelikbicak/tsci/pull/30) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+3. 💪 Opened PR [#30](https://github.com/sametcelikbicak/tsci/pull/30) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+4. 🎉 Merged PR [#29](https://github.com/sametcelikbicak/tsci/pull/29) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+5. 💪 Opened PR [#29](https://github.com/sametcelikbicak/tsci/pull/29) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
 <!--END_SECTION:activity-->
