@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#237](https://github.com/tandpfun/skill-icons/issues/237) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-2. ❗️ Opened issue [#236](https://github.com/tandpfun/skill-icons/issues/236) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-3. 🎉 Merged PR [#2](https://github.com/sametcelikbicak/typescript-rollup/pull/2) in [sametcelikbicak/typescript-rollup](https://github.com/sametcelikbicak/typescript-rollup)
-4. 🎉 Merged PR [#2](https://github.com/sametcelikbicak/typescript-snowpack/pull/2) in [sametcelikbicak/typescript-snowpack](https://github.com/sametcelikbicak/typescript-snowpack)
-5. 🎉 Merged PR [#30](https://github.com/sametcelikbicak/tsci/pull/30) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+1. 🎉 Merged PR [#31](https://github.com/sametcelikbicak/tsci/pull/31) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+2. 💪 Opened PR [#31](https://github.com/sametcelikbicak/tsci/pull/31) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+3. ❗️ Opened issue [#237](https://github.com/tandpfun/skill-icons/issues/237) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+4. ❗️ Opened issue [#236](https://github.com/tandpfun/skill-icons/issues/236) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+5. 🎉 Merged PR [#2](https://github.com/sametcelikbicak/typescript-rollup/pull/2) in [sametcelikbicak/typescript-rollup](https://github.com/sametcelikbicak/typescript-rollup)
 <!--END_SECTION:activity-->
