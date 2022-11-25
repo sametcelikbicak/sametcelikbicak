@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/sametcelikbicak/tsci/pull/31) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-2. 💪 Opened PR [#31](https://github.com/sametcelikbicak/tsci/pull/31) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-3. ❗️ Opened issue [#237](https://github.com/tandpfun/skill-icons/issues/237) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-4. ❗️ Opened issue [#236](https://github.com/tandpfun/skill-icons/issues/236) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-5. 🎉 Merged PR [#2](https://github.com/sametcelikbicak/typescript-rollup/pull/2) in [sametcelikbicak/typescript-rollup](https://github.com/sametcelikbicak/typescript-rollup)
+1. 🎉 Merged PR [#85](https://github.com/sametcelikbicak/storage-function/pull/85) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+2. 💪 Opened PR [#85](https://github.com/sametcelikbicak/storage-function/pull/85) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+3. 🎉 Merged PR [#84](https://github.com/sametcelikbicak/storage-function/pull/84) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+4. 💪 Opened PR [#84](https://github.com/sametcelikbicak/storage-function/pull/84) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+5. 🎉 Merged PR [#88](https://github.com/sametcelikbicak/enum2array/pull/88) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
 <!--END_SECTION:activity-->
