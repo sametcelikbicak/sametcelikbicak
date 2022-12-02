@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/sametcelikbicak/enum2array/pull/89) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-2. 🎉 Merged PR [#33](https://github.com/sametcelikbicak/tsci/pull/33) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-3. 💪 Opened PR [#33](https://github.com/sametcelikbicak/tsci/pull/33) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-4. 🎉 Merged PR [#86](https://github.com/sametcelikbicak/storage-function/pull/86) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
-5. 💪 Opened PR [#86](https://github.com/sametcelikbicak/storage-function/pull/86) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+1. 🎉 Merged PR [#87](https://github.com/sametcelikbicak/storage-function/pull/87) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+2. 🎉 Merged PR [#89](https://github.com/sametcelikbicak/enum2array/pull/89) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+3. 🎉 Merged PR [#33](https://github.com/sametcelikbicak/tsci/pull/33) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+4. 💪 Opened PR [#33](https://github.com/sametcelikbicak/tsci/pull/33) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+5. 🎉 Merged PR [#86](https://github.com/sametcelikbicak/storage-function/pull/86) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
 <!--END_SECTION:activity-->
