@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26303](https://github.com/angular/components/issues/26303) in [angular/components](https://github.com/angular/components)
-2. 🎉 Merged PR [#45](https://github.com/sametcelikbicak/tsci/pull/45) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-3. 🎉 Merged PR [#44](https://github.com/sametcelikbicak/tsci/pull/44) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-4. 🎉 Merged PR [#43](https://github.com/sametcelikbicak/tsci/pull/43) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-5. 🎉 Merged PR [#41](https://github.com/sametcelikbicak/tsci/pull/41) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+1. 🎉 Merged PR [#3](https://github.com/sametcelikbicak/typescript-rollup/pull/3) in [sametcelikbicak/typescript-rollup](https://github.com/sametcelikbicak/typescript-rollup)
+2. ❗️ Opened issue [#26303](https://github.com/angular/components/issues/26303) in [angular/components](https://github.com/angular/components)
+3. 🎉 Merged PR [#45](https://github.com/sametcelikbicak/tsci/pull/45) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+4. 🎉 Merged PR [#44](https://github.com/sametcelikbicak/tsci/pull/44) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+5. 🎉 Merged PR [#43](https://github.com/sametcelikbicak/tsci/pull/43) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
 <!--END_SECTION:activity-->
