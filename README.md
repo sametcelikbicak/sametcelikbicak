@@ -9,7 +9,6 @@
 
 ![](https://komarev.com/ghpvc/?username=sametcelikbicak)
 
-![GitHub Snak Gif](https://github.com/sametcelikbicak/sametcelikbicak/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **sametcelikbicak/sametcelikbicak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
