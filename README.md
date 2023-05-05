@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/sametcelikbicak/tsci/pull/104) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-2. 🎉 Merged PR [#3](https://github.com/sametcelikbicak/typescript-parcel/pull/3) in [sametcelikbicak/typescript-parcel](https://github.com/sametcelikbicak/typescript-parcel)
-3. 🎉 Merged PR [#6](https://github.com/sametcelikbicak/typescript-snowpack/pull/6) in [sametcelikbicak/typescript-snowpack](https://github.com/sametcelikbicak/typescript-snowpack)
-4. 🎉 Merged PR [#5](https://github.com/sametcelikbicak/typescript-snowpack/pull/5) in [sametcelikbicak/typescript-snowpack](https://github.com/sametcelikbicak/typescript-snowpack)
-5. 🎉 Merged PR [#103](https://github.com/sametcelikbicak/tsci/pull/103) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+1. 🎉 Merged PR [#118](https://github.com/sametcelikbicak/tsci/pull/118) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+2. 🎉 Merged PR [#117](https://github.com/sametcelikbicak/tsci/pull/117) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+3. 🎉 Merged PR [#116](https://github.com/sametcelikbicak/tsci/pull/116) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+4. 🎉 Merged PR [#115](https://github.com/sametcelikbicak/tsci/pull/115) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+5. 🎉 Merged PR [#114](https://github.com/sametcelikbicak/tsci/pull/114) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
 <!--END_SECTION:activity-->
