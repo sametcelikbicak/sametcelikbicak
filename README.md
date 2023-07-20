@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#149](https://github.com/sametcelikbicak/tsci/pull/149) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-2. 🎉 Merged PR [#148](https://github.com/sametcelikbicak/tsci/pull/148) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-3. 🎉 Merged PR [#147](https://github.com/sametcelikbicak/tsci/pull/147) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-4. 🎉 Merged PR [#146](https://github.com/sametcelikbicak/tsci/pull/146) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-5. 🎉 Merged PR [#145](https://github.com/sametcelikbicak/tsci/pull/145) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+1. 🗣 Commented on [#2034](https://github.com/sebholstein/angular-google-maps/pull/2034#issuecomment-1643714235) in [sebholstein/angular-google-maps](https://github.com/sebholstein/angular-google-maps)
+2. 🎉 Merged PR [#149](https://github.com/sametcelikbicak/tsci/pull/149) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+3. 🎉 Merged PR [#148](https://github.com/sametcelikbicak/tsci/pull/148) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+4. 🎉 Merged PR [#147](https://github.com/sametcelikbicak/tsci/pull/147) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+5. 🎉 Merged PR [#146](https://github.com/sametcelikbicak/tsci/pull/146) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
 <!--END_SECTION:activity-->
