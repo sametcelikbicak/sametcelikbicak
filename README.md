@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#154](https://github.com/sametcelikbicak/tsci/pull/154) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+1. ❗ Opened issue [#52778](https://github.com/angular/angular/issues/52778) in [angular/angular](https://github.com/angular/angular)
 2. 🎉 Merged PR [#153](https://github.com/sametcelikbicak/tsci/pull/153) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
 3. 🎉 Merged PR [#152](https://github.com/sametcelikbicak/tsci/pull/152) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
 4. 🎉 Merged PR [#151](https://github.com/sametcelikbicak/tsci/pull/151) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
