@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6765](https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/6765) in [AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-2. ❗ Opened issue [#52778](https://github.com/angular/angular/issues/52778) in [angular/angular](https://github.com/angular/angular)
-3. 🎉 Merged PR [#152](https://github.com/sametcelikbicak/tsci/pull/152) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+1. 🗣 Commented on [#6765](https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/6765#issuecomment-1895498961) in [AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+2. ❗ Opened issue [#6765](https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/6765) in [AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
+3. ❗ Opened issue [#52778](https://github.com/angular/angular/issues/52778) in [angular/angular](https://github.com/angular/angular)
 4. 🎉 Merged PR [#151](https://github.com/sametcelikbicak/tsci/pull/151) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
 5. 🎉 Merged PR [#150](https://github.com/sametcelikbicak/tsci/pull/150) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
 <!--END_SECTION:activity-->
