@@ -1,7 +1,7 @@
 ### Hi there, my name is Samet ÇELİKBIÇAK 👋
-#### I am a developer from Izmir, Turkey 🇹🇷 I work with Angular, TypeScript, C#, HTML, CSS and JavaScript technologies
+#### I am a developer from Izmir, Turkey 🇹🇷 I work with Angular, TypeScript, HTML, CSS and JavaScript technologies
 
-- 👨‍💻 I’m currently working on Angular, TypeScript, C#, HTML, CSS and JavaScript technologies.
+- 👨‍💻 I’m currently working on Angular, TypeScript, HTML, CSS and JavaScript technologies.
 - 🌱 I’m currently learning new technologies and more.
 - 📫 How to reach me: [Twitter](https://twitter.com/sametcelikbicak) | [LinkedIn](https://www.linkedin.com/in/sametcelikbicak) | [YouTube](https://www.youtube.com/@sametcelikbicak) | [GitHub](https://github.com/sametcelikbicak) | [WebSite](https://sametcelikbicak.com/)
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack &nbsp; 🧰
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,js,cs,dotnet,git,github,gitlab,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,js,git,webstorm,rider,vscode,vim,bitbucket,github,gitlab,npm,yarn,pnpm,docker,cs,dotnet" />
 </p>
 
 
