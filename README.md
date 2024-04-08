@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack &nbsp; 🧰
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,js,git,idea,webstorm,rider,vscode,vim,bitbucket,github,gitlab,npm,yarn,pnpm,docker,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,js,git,webstorm,rider,idea,vscode,vim,bitbucket,github,gitlab,npm,yarn,pnpm,docker,cs,dotnet" />
 </p>
 
 
