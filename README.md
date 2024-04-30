@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6765](https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/6765#issuecomment-1895498961) in [AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-2. ❗ Opened issue [#6765](https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/6765) in [AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-3. ❗ Opened issue [#52778](https://github.com/angular/angular/issues/52778) in [angular/angular](https://github.com/angular/angular)
-4. 🎉 Merged PR [#151](https://github.com/sametcelikbicak/tsci/pull/151) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
-5. 🎉 Merged PR [#150](https://github.com/sametcelikbicak/tsci/pull/150) in [sametcelikbicak/tsci](https://github.com/sametcelikbicak/tsci)
+1. ❌ Closed PR [#107](https://github.com/sametcelikbicak/enum2array/pull/107) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+2. ❌ Closed PR [#106](https://github.com/sametcelikbicak/enum2array/pull/106) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+3. ❌ Closed PR [#105](https://github.com/sametcelikbicak/enum2array/pull/105) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+4. ❌ Closed PR [#104](https://github.com/sametcelikbicak/enum2array/pull/104) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+5. ❌ Closed PR [#105](https://github.com/sametcelikbicak/storage-function/pull/105) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
 <!--END_SECTION:activity-->
