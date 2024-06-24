@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#107](https://github.com/sametcelikbicak/enum2array/pull/107) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-2. ❌ Closed PR [#106](https://github.com/sametcelikbicak/enum2array/pull/106) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-3. ❌ Closed PR [#105](https://github.com/sametcelikbicak/enum2array/pull/105) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-4. ❌ Closed PR [#104](https://github.com/sametcelikbicak/enum2array/pull/104) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-5. ❌ Closed PR [#105](https://github.com/sametcelikbicak/storage-function/pull/105) in [sametcelikbicak/storage-function](https://github.com/sametcelikbicak/storage-function)
+1. ❌ Closed PR [#6](https://github.com/sametcelikbicak/typescript-parcel/pull/6) in [sametcelikbicak/typescript-parcel](https://github.com/sametcelikbicak/typescript-parcel)
+2. ❌ Closed PR [#5](https://github.com/sametcelikbicak/typescript-parcel/pull/5) in [sametcelikbicak/typescript-parcel](https://github.com/sametcelikbicak/typescript-parcel)
+3. ❌ Closed PR [#4](https://github.com/sametcelikbicak/typescript-parcel/pull/4) in [sametcelikbicak/typescript-parcel](https://github.com/sametcelikbicak/typescript-parcel)
+4. ❌ Closed PR [#107](https://github.com/sametcelikbicak/enum2array/pull/107) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+5. ❌ Closed PR [#106](https://github.com/sametcelikbicak/enum2array/pull/106) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
 <!--END_SECTION:activity-->
