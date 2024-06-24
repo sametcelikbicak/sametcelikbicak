@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/sametcelikbicak/typescript-parcel/pull/6) in [sametcelikbicak/typescript-parcel](https://github.com/sametcelikbicak/typescript-parcel)
-2. ❌ Closed PR [#5](https://github.com/sametcelikbicak/typescript-parcel/pull/5) in [sametcelikbicak/typescript-parcel](https://github.com/sametcelikbicak/typescript-parcel)
-3. ❌ Closed PR [#4](https://github.com/sametcelikbicak/typescript-parcel/pull/4) in [sametcelikbicak/typescript-parcel](https://github.com/sametcelikbicak/typescript-parcel)
-4. ❌ Closed PR [#107](https://github.com/sametcelikbicak/enum2array/pull/107) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
-5. ❌ Closed PR [#106](https://github.com/sametcelikbicak/enum2array/pull/106) in [sametcelikbicak/enum2array](https://github.com/sametcelikbicak/enum2array)
+1. ❌ Closed PR [#4](https://github.com/sametcelikbicak/typescript-vite/pull/4) in [sametcelikbicak/typescript-vite](https://github.com/sametcelikbicak/typescript-vite)
+2. ❌ Closed PR [#3](https://github.com/sametcelikbicak/typescript-vite/pull/3) in [sametcelikbicak/typescript-vite](https://github.com/sametcelikbicak/typescript-vite)
+3. ❌ Closed PR [#2](https://github.com/sametcelikbicak/typescript-vite/pull/2) in [sametcelikbicak/typescript-vite](https://github.com/sametcelikbicak/typescript-vite)
+4. ❌ Closed PR [#10](https://github.com/sametcelikbicak/typescript-snowpack/pull/10) in [sametcelikbicak/typescript-snowpack](https://github.com/sametcelikbicak/typescript-snowpack)
+5. ❌ Closed PR [#9](https://github.com/sametcelikbicak/typescript-snowpack/pull/9) in [sametcelikbicak/typescript-snowpack](https://github.com/sametcelikbicak/typescript-snowpack)
 <!--END_SECTION:activity-->
