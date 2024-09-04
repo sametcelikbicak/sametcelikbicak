@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/total-typescript/total-typescript-book/pull/43#issuecomment-2228341977) in [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book)
-2. 💪 Opened PR [#43](https://github.com/total-typescript/total-typescript-book/pull/43) in [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book)
-3. ❌ Closed PR [#4](https://github.com/sametcelikbicak/typescript-vite/pull/4) in [sametcelikbicak/typescript-vite](https://github.com/sametcelikbicak/typescript-vite)
-4. ❌ Closed PR [#3](https://github.com/sametcelikbicak/typescript-vite/pull/3) in [sametcelikbicak/typescript-vite](https://github.com/sametcelikbicak/typescript-vite)
-5. ❌ Closed PR [#2](https://github.com/sametcelikbicak/typescript-vite/pull/2) in [sametcelikbicak/typescript-vite](https://github.com/sametcelikbicak/typescript-vite)
+1. 💪 Opened PR [#55](https://github.com/total-typescript/total-typescript-book/pull/55) in [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book)
+2. 🗣 Commented on [#43](https://github.com/total-typescript/total-typescript-book/pull/43#issuecomment-2228341977) in [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book)
+3. 💪 Opened PR [#43](https://github.com/total-typescript/total-typescript-book/pull/43) in [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book)
+4. ❌ Closed PR [#4](https://github.com/sametcelikbicak/typescript-vite/pull/4) in [sametcelikbicak/typescript-vite](https://github.com/sametcelikbicak/typescript-vite)
+5. ❌ Closed PR [#3](https://github.com/sametcelikbicak/typescript-vite/pull/3) in [sametcelikbicak/typescript-vite](https://github.com/sametcelikbicak/typescript-vite)
 <!--END_SECTION:activity-->
