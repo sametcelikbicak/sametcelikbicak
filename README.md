@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [sametcelikbicak/pomodoro](https://github.com/sametcelikbicak/pomodoro)
-2. ❌ Assigned PR [#5](undefined) in [sametcelikbicak/pomodoro](https://github.com/sametcelikbicak/pomodoro)
-3. 💪 Opened PR [#4](undefined) in [sametcelikbicak/pomodoro](https://github.com/sametcelikbicak/pomodoro)
-4. ❌ Assigned PR [#4](undefined) in [sametcelikbicak/pomodoro](https://github.com/sametcelikbicak/pomodoro)
-5. 💪 Opened PR [#3](undefined) in [sametcelikbicak/pomodoro](https://github.com/sametcelikbicak/pomodoro)
+1. 💪 Opened PR [#19](undefined) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+2. ❌ Assigned PR [#19](undefined) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+3. 💪 Opened PR [#5](undefined) in [sametcelikbicak/pomodoro](https://github.com/sametcelikbicak/pomodoro)
+4. ❌ Assigned PR [#5](undefined) in [sametcelikbicak/pomodoro](https://github.com/sametcelikbicak/pomodoro)
+5. 💪 Opened PR [#4](undefined) in [sametcelikbicak/pomodoro](https://github.com/sametcelikbicak/pomodoro)
 <!--END_SECTION:activity-->
