@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack &nbsp; 🧰
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,js,git,webstorm,rider,vscode,vim,bitbucket,github,gitlab,npm,yarn,pnpm,docker,cs,dotnet,react,nodejs,astro,nestjs" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,js,git,webstorm,rider,vscode,vim,bitbucket,github,gitlab,npm,yarn,pnpm,docker,cs,dotnet,react,nextjs,nodejs,nestjs,astro" />
 </p>
 
 
