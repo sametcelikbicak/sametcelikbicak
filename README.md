@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/sametcelikbicak/pomodoro/pull/15) in [sametcelikbicak/pomodoro](https://github.com/sametcelikbicak/pomodoro)
+1. ℹ️ Assigned PR [#27](https://github.com/sametcelikbicak/web-site/pull/27) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
 2. 💪 Opened PR [#15](https://github.com/sametcelikbicak/pomodoro/pull/15) in [sametcelikbicak/pomodoro](https://github.com/sametcelikbicak/pomodoro)
 3. ℹ️ Assigned PR [#15](https://github.com/sametcelikbicak/pomodoro/pull/15) in [sametcelikbicak/pomodoro](https://github.com/sametcelikbicak/pomodoro)
 4. ℹ️ Assigned PR [#14](https://github.com/sametcelikbicak/pomodoro/pull/14) in [sametcelikbicak/pomodoro](https://github.com/sametcelikbicak/pomodoro)
