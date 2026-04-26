@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/sametcelikbicak/gh-pages/pull/4) in [sametcelikbicak/gh-pages](https://github.com/sametcelikbicak/gh-pages)
-2. 💪 Opened PR [#4](https://github.com/sametcelikbicak/gh-pages/pull/4) in [sametcelikbicak/gh-pages](https://github.com/sametcelikbicak/gh-pages)
-3. ℹ️ Assigned PR [#4](https://github.com/sametcelikbicak/gh-pages/pull/4) in [sametcelikbicak/gh-pages](https://github.com/sametcelikbicak/gh-pages)
-4. 🎉 Merged PR [#3](https://github.com/sametcelikbicak/gh-pages/pull/3) in [sametcelikbicak/gh-pages](https://github.com/sametcelikbicak/gh-pages)
-5. 💪 Opened PR [#3](https://github.com/sametcelikbicak/gh-pages/pull/3) in [sametcelikbicak/gh-pages](https://github.com/sametcelikbicak/gh-pages)
+1. 🎉 Merged PR [#5](https://github.com/sametcelikbicak/gh-pages/pull/5) in [sametcelikbicak/gh-pages](https://github.com/sametcelikbicak/gh-pages)
+2. ℹ️ Assigned PR [#5](https://github.com/sametcelikbicak/gh-pages/pull/5) in [sametcelikbicak/gh-pages](https://github.com/sametcelikbicak/gh-pages)
+3. 💪 Opened PR [#5](https://github.com/sametcelikbicak/gh-pages/pull/5) in [sametcelikbicak/gh-pages](https://github.com/sametcelikbicak/gh-pages)
+4. 🎉 Merged PR [#4](https://github.com/sametcelikbicak/gh-pages/pull/4) in [sametcelikbicak/gh-pages](https://github.com/sametcelikbicak/gh-pages)
+5. 💪 Opened PR [#4](https://github.com/sametcelikbicak/gh-pages/pull/4) in [sametcelikbicak/gh-pages](https://github.com/sametcelikbicak/gh-pages)
 <!--END_SECTION:activity-->
