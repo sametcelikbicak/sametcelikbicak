@@ -6,7 +6,7 @@ I possess extensive experience in software development. I have developed web (fr
 
 Until 2024, I worked as a Fullstack Developer, and since then, I have continued my career as a Principal Software Specialist, focusing on Frontend development. Throughout my career, I have been working with technologies such as Angular, TypeScript, HTML, CSS, JavaScript, and React.
 
-[Twitter](https://twitter.com/sametcelikbicak) | [LinkedIn](https://www.linkedin.com/in/sametcelikbicak) | [YouTube](https://www.youtube.com/@sametcelikbicak) | [GitHub](https://github.com/sametcelikbicak) | [WebSite](https://sametcelikbicak.com/)
+[X](https://x.com/sametcelikbicak) | [LinkedIn](https://www.linkedin.com/in/sametcelikbicak) | [YouTube](https://www.youtube.com/@sametcelikbicak) | [GitHub](https://github.com/sametcelikbicak) | [WebSite](https://sametcelikbicak.com/)
 
 <a href="https://www.buymeacoffee.com/sametcelikbicak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
