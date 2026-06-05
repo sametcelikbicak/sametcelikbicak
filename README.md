@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/sametcelikbicak/web-site/pull/57) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-2. ℹ️ Assigned PR [#57](https://github.com/sametcelikbicak/web-site/pull/57) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-3. 💪 Opened PR [#57](https://github.com/sametcelikbicak/web-site/pull/57) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-4. 🎉 Merged PR [#54](https://github.com/sametcelikbicak/web-site/pull/54) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-5. ℹ️ Assigned PR [#54](https://github.com/sametcelikbicak/web-site/pull/54) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+1. 🎉 Merged PR [#59](https://github.com/sametcelikbicak/web-site/pull/59) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+2. ℹ️ Assigned PR [#59](https://github.com/sametcelikbicak/web-site/pull/59) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+3. 💪 Opened PR [#59](https://github.com/sametcelikbicak/web-site/pull/59) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+4. 🎉 Merged PR [#58](https://github.com/sametcelikbicak/web-site/pull/58) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+5. 💪 Opened PR [#58](https://github.com/sametcelikbicak/web-site/pull/58) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
 <!--END_SECTION:activity-->
