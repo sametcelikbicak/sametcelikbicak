@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/sametcelikbicak/web-site/pull/65) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-2. 💪 Opened PR [#65](https://github.com/sametcelikbicak/web-site/pull/65) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-3. ℹ️ Assigned PR [#65](https://github.com/sametcelikbicak/web-site/pull/65) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-4. 🎉 Merged PR [#64](https://github.com/sametcelikbicak/web-site/pull/64) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-5. ℹ️ Assigned PR [#64](https://github.com/sametcelikbicak/web-site/pull/64) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+1. 🎉 Merged PR [#2](https://github.com/sametcelikbicak/simple-skill-cli/pull/2) in [sametcelikbicak/simple-skill-cli](https://github.com/sametcelikbicak/simple-skill-cli)
+2. 💪 Opened PR [#2](https://github.com/sametcelikbicak/simple-skill-cli/pull/2) in [sametcelikbicak/simple-skill-cli](https://github.com/sametcelikbicak/simple-skill-cli)
+3. ℹ️ Assigned PR [#2](https://github.com/sametcelikbicak/simple-skill-cli/pull/2) in [sametcelikbicak/simple-skill-cli](https://github.com/sametcelikbicak/simple-skill-cli)
+4. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/simple-skill-cli/pull/1) in [sametcelikbicak/simple-skill-cli](https://github.com/sametcelikbicak/simple-skill-cli)
+5. 💪 Opened PR [#1](https://github.com/sametcelikbicak/simple-skill-cli/pull/1) in [sametcelikbicak/simple-skill-cli](https://github.com/sametcelikbicak/simple-skill-cli)
 <!--END_SECTION:activity-->
