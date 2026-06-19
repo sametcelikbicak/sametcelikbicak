@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/ATOM00blue/awesome-agent-skills/pull/2) in [ATOM00blue/awesome-agent-skills](https://github.com/ATOM00blue/awesome-agent-skills)
-2. 💪 Opened PR [#288](https://github.com/heilcheng/awesome-agent-skills/pull/288) in [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)
-3. 💪 Opened PR [#1](https://github.com/kenchikuliu/awesome-ai-test-skills/pull/1) in [kenchikuliu/awesome-ai-test-skills](https://github.com/kenchikuliu/awesome-ai-test-skills)
-4. 💪 Opened PR [#14](https://github.com/tugkanboz/awesome-ai-testing/pull/14) in [tugkanboz/awesome-ai-testing](https://github.com/tugkanboz/awesome-ai-testing)
-5. 💪 Opened PR [#22](https://github.com/philipbankier/awesome-agent-skills/pull/22) in [philipbankier/awesome-agent-skills](https://github.com/philipbankier/awesome-agent-skills)
+1. 💪 Opened PR [#66](https://github.com/sametcelikbicak/web-site/pull/66) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+2. 💪 Opened PR [#2](https://github.com/ATOM00blue/awesome-agent-skills/pull/2) in [ATOM00blue/awesome-agent-skills](https://github.com/ATOM00blue/awesome-agent-skills)
+3. 💪 Opened PR [#288](https://github.com/heilcheng/awesome-agent-skills/pull/288) in [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)
+4. 💪 Opened PR [#1](https://github.com/kenchikuliu/awesome-ai-test-skills/pull/1) in [kenchikuliu/awesome-ai-test-skills](https://github.com/kenchikuliu/awesome-ai-test-skills)
+5. 💪 Opened PR [#14](https://github.com/tugkanboz/awesome-ai-testing/pull/14) in [tugkanboz/awesome-ai-testing](https://github.com/tugkanboz/awesome-ai-testing)
 <!--END_SECTION:activity-->
