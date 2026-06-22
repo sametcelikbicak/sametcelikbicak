@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/sametcelikbicak/rolecraft/pull/7) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-2. 🎉 Merged PR [#4](https://github.com/sametcelikbicak/rolecraft/pull/4) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-3. 💪 Opened PR [#66](https://github.com/sametcelikbicak/web-site/pull/66) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-4. 💪 Opened PR [#2](https://github.com/ATOM00blue/awesome-agent-skills/pull/2) in [ATOM00blue/awesome-agent-skills](https://github.com/ATOM00blue/awesome-agent-skills)
-5. 💪 Opened PR [#288](https://github.com/heilcheng/awesome-agent-skills/pull/288) in [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)
+1. ❌ Closed PR [#6](https://github.com/sametcelikbicak/rolecraft/pull/6) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+2. ℹ️ Assigned PR [#4](https://github.com/sametcelikbicak/rolecraft/pull/4) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+3. ℹ️ Assigned PR [#5](https://github.com/sametcelikbicak/rolecraft/pull/5) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+4. 🎉 Merged PR [#7](https://github.com/sametcelikbicak/rolecraft/pull/7) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+5. 🎉 Merged PR [#4](https://github.com/sametcelikbicak/rolecraft/pull/4) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
 <!--END_SECTION:activity-->
