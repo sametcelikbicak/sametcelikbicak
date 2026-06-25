@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/sametcelikbicak/rolecraft/pull/11) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-2. 🎉 Merged PR [#10](https://github.com/sametcelikbicak/rolecraft/pull/10) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-3. ℹ️ Assigned PR [#10](https://github.com/sametcelikbicak/rolecraft/pull/10) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-4. ❌ Closed PR [#6](https://github.com/ng-turkey/who-use-angular-in-turkey/pull/6) in [ng-turkey/who-use-angular-in-turkey](https://github.com/ng-turkey/who-use-angular-in-turkey)
-5. ❌ Closed PR [#6](https://github.com/sametcelikbicak/rolecraft/pull/6) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+1. ℹ️ Assigned PR [#12](https://github.com/sametcelikbicak/rolecraft/pull/12) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+2. 🎉 Merged PR [#11](https://github.com/sametcelikbicak/rolecraft/pull/11) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+3. 🎉 Merged PR [#10](https://github.com/sametcelikbicak/rolecraft/pull/10) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+4. ℹ️ Assigned PR [#10](https://github.com/sametcelikbicak/rolecraft/pull/10) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+5. ❌ Closed PR [#6](https://github.com/ng-turkey/who-use-angular-in-turkey/pull/6) in [ng-turkey/who-use-angular-in-turkey](https://github.com/ng-turkey/who-use-angular-in-turkey)
 <!--END_SECTION:activity-->
