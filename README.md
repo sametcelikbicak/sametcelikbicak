@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/sametcelikbicak/rolecraft/pull/28) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-2. ℹ️ Assigned PR [#28](https://github.com/sametcelikbicak/rolecraft/pull/28) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-3. 💪 Opened PR [#28](https://github.com/sametcelikbicak/rolecraft/pull/28) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-4. 🎉 Merged PR [#27](https://github.com/sametcelikbicak/rolecraft/pull/27) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-5. ℹ️ Assigned PR [#27](https://github.com/sametcelikbicak/rolecraft/pull/27) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+1. 🎉 Merged PR [#30](https://github.com/sametcelikbicak/rolecraft/pull/30) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+2. ℹ️ Assigned PR [#30](https://github.com/sametcelikbicak/rolecraft/pull/30) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+3. 💪 Opened PR [#30](https://github.com/sametcelikbicak/rolecraft/pull/30) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+4. 🎉 Merged PR [#29](https://github.com/sametcelikbicak/rolecraft/pull/29) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+5. ℹ️ Assigned PR [#29](https://github.com/sametcelikbicak/rolecraft/pull/29) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
 <!--END_SECTION:activity-->
