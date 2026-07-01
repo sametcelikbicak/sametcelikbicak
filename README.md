@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1196](https://github.com/agarrharr/awesome-cli-apps/pull/1196) in [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
-2. 💪 Opened PR [#1](https://github.com/luoyuctl/awesome-ai-cli/pull/1) in [luoyuctl/awesome-ai-cli](https://github.com/luoyuctl/awesome-ai-cli)
-3. 💪 Opened PR [#169](https://github.com/bradAGI/awesome-cli-coding-agents/pull/169) in [bradAGI/awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents)
-4. 💪 Opened PR [#483](https://github.com/ai-for-developers/awesome-ai-coding-tools/pull/483) in [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)
-5. 🎉 Merged PR [#31](https://github.com/sametcelikbicak/rolecraft/pull/31) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+1. 🎉 Merged PR [#36](https://github.com/sametcelikbicak/rolecraft/pull/36) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+2. 💪 Opened PR [#36](https://github.com/sametcelikbicak/rolecraft/pull/36) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+3. 🎉 Merged PR [#35](https://github.com/sametcelikbicak/rolecraft/pull/35) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+4. 🎉 Merged PR [#34](https://github.com/sametcelikbicak/rolecraft/pull/34) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+5. 🎉 Merged PR [#33](https://github.com/sametcelikbicak/rolecraft/pull/33) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
 <!--END_SECTION:activity-->
