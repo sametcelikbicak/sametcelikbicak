@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/sametcelikbicak/rolecraft/pull/69) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-2. 💪 Opened PR [#69](https://github.com/sametcelikbicak/rolecraft/pull/69) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-3. 🎉 Merged PR [#14](https://github.com/tugkanboz/awesome-ai-testing/pull/14) in [tugkanboz/awesome-ai-testing](https://github.com/tugkanboz/awesome-ai-testing)
-4. 🗣 Commented on [#14](https://github.com/tugkanboz/awesome-ai-testing/pull/14#issuecomment-4903134496) in [tugkanboz/awesome-ai-testing](https://github.com/tugkanboz/awesome-ai-testing)
-5. 🎉 Merged PR [#68](https://github.com/sametcelikbicak/rolecraft/pull/68) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+1. 🎉 Merged PR [#70](https://github.com/sametcelikbicak/rolecraft/pull/70) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+2. 💪 Opened PR [#70](https://github.com/sametcelikbicak/rolecraft/pull/70) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+3. 🎉 Merged PR [#69](https://github.com/sametcelikbicak/rolecraft/pull/69) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+4. 💪 Opened PR [#69](https://github.com/sametcelikbicak/rolecraft/pull/69) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+5. 🎉 Merged PR [#14](https://github.com/tugkanboz/awesome-ai-testing/pull/14) in [tugkanboz/awesome-ai-testing](https://github.com/tugkanboz/awesome-ai-testing)
 <!--END_SECTION:activity-->
