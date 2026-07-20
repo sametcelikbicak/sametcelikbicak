@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#147](https://github.com/sametcelikbicak/rolecraft/pull/147) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-2. 💪 Opened PR [#147](https://github.com/sametcelikbicak/rolecraft/pull/147) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-3. 🎉 Merged PR [#146](https://github.com/sametcelikbicak/rolecraft/pull/146) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-4. 💪 Opened PR [#146](https://github.com/sametcelikbicak/rolecraft/pull/146) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
-5. 🗣 Commented on [#112](https://github.com/sametcelikbicak/rolecraft/issues/112#issuecomment-5021064089) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+1. 🚀 Published release [v1](https://github.com/rolecraft-sh/rolecraft-action/releases/tag/v1) in [rolecraft-sh/rolecraft-action](https://github.com/rolecraft-sh/rolecraft-action)
+2. 🚀 Published release [v1.0.0](https://github.com/rolecraft-sh/rolecraft-action/releases/tag/untagged-65c2a573a6d793fa4bff) in [rolecraft-sh/rolecraft-action](https://github.com/rolecraft-sh/rolecraft-action)
+3. 🎉 Merged PR [#147](https://github.com/sametcelikbicak/rolecraft/pull/147) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+4. 💪 Opened PR [#147](https://github.com/sametcelikbicak/rolecraft/pull/147) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
+5. 🎉 Merged PR [#146](https://github.com/sametcelikbicak/rolecraft/pull/146) in [sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)
 <!--END_SECTION:activity-->
