@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity 👨‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#179](https://github.com/rolecraft-sh/rolecraft/pull/179) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-2. 💪 Opened PR [#179](https://github.com/rolecraft-sh/rolecraft/pull/179) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-3. 🎉 Merged PR [#4](https://github.com/rolecraft-sh/registry/pull/4) in [rolecraft-sh/registry](https://github.com/rolecraft-sh/registry)
-4. 💪 Opened PR [#4](https://github.com/rolecraft-sh/registry/pull/4) in [rolecraft-sh/registry](https://github.com/rolecraft-sh/registry)
-5. ❌ Closed PR [#3](https://github.com/rolecraft-sh/registry/pull/3) in [rolecraft-sh/registry](https://github.com/rolecraft-sh/registry)
+1. 🔒 Closed issue [#112](https://github.com/rolecraft-sh/rolecraft/issues/112) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+2. 🗣 Commented on [#180](https://github.com/rolecraft-sh/rolecraft/pull/180#issuecomment-5078646585) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+3. 🎉 Merged PR [#179](https://github.com/rolecraft-sh/rolecraft/pull/179) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+4. 💪 Opened PR [#179](https://github.com/rolecraft-sh/rolecraft/pull/179) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+5. 🎉 Merged PR [#4](https://github.com/rolecraft-sh/registry/pull/4) in [rolecraft-sh/registry](https://github.com/rolecraft-sh/registry)
 <!--END_SECTION:activity-->
