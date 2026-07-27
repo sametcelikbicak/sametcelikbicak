@@ -2,8 +2,11 @@ name: Recent activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,9 +14,11 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: '⚡️ Recent activity(ies) was added'
+          COMMIT_MSG: '⚡️ Recent activity was added'
+          MAX_LINES: 8
+          FILTER_EVENTS: PullRequestEvent,IssuesEvent,IssueCommentEvent,ReleaseEvent

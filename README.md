@@ -1,53 +1,61 @@
 ### Hi there, my name is Samet ÇELİKBIÇAK 👋
 
+<!-- >>> Move this typed header above if you want a typing header
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B93B&center=true&vCenter=true&random=false&width=600&lines=Principal+Software+Specialist;Angular+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Frontend" alt="Typing SVG" /></a>
+</p>
+-->
+
 I have been working in the software industry since 2007. During this time, I have held positions as Software Developer, Senior Software Developer, and Team Lead.
+
+Until 2024, I worked as a Fullstack Developer, and since then, I have continued my career as a **Principal Software Specialist**, focusing on Frontend development. Throughout my career, I have been working with technologies such as **Angular, TypeScript, HTML, CSS, JavaScript, and React**.
 
 I possess extensive experience in software development. I have developed web (frontend & backend) and Android (Xamarin) applications using object-oriented programming, software design patterns, principles, methodologies, and various development tools. I leverage my technical and analytical skills to solve problems both independently and as part of a team.
 
-Until 2024, I worked as a Fullstack Developer, and since then, I have continued my career as a Principal Software Specialist, focusing on Frontend development. Throughout my career, I have been working with technologies such as Angular, TypeScript, HTML, CSS, JavaScript, and React.
+<p align="center">
+  <a href="https://x.com/sametcelikbicak"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/sametcelikbicak"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/@sametcelikbicak"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://github.com/sametcelikbicak"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
+  <a href="https://sametcelikbicak.com/"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <br/>
+  <a href="https://www.buymeacoffee.com/sametcelikbicak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="28" width="119"></a>
+</p>
 
-[X](https://x.com/sametcelikbicak) | [LinkedIn](https://www.linkedin.com/in/sametcelikbicak) | [YouTube](https://www.youtube.com/@sametcelikbicak) | [GitHub](https://github.com/sametcelikbicak) | [WebSite](https://sametcelikbicak.com/)
-
-<a href="https://www.buymeacoffee.com/sametcelikbicak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-![](https://komarev.com/ghpvc/?username=sametcelikbicak)
-
-
-<!--
-**sametcelikbicak/sametcelikbicak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sametcelikbicak&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ### 🛠 &nbsp;Tech Stack &nbsp; 🧰
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,js,git,webstorm,rider,vscode,vim,bitbucket,github,gitlab,npm,yarn,pnpm,docker,cs,dotnet,react,nextjs,nodejs,nestjs" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,react,nextjs,html,css,js,nodejs,npm,jest,github,git,vscode" alt="Tech Stack"/>
 </p>
 
+<details>
+  <summary>🔸 Also familiar with</summary>
+  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,docker,rider,vim,bitbucket,gitlab,yarn,pnpm" alt="Also familiar with"/>
+  </p>
+</details>
 
+### ⚙️ &nbsp;GitHub Stats &nbsp;🧪
 
-### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/sametcelikbicak">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sametcelikbicak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametcelikbicak&layout=compact&langs_count=20&theme=algolia&hide=Jupyter%20Notebook"/>
-</a>
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sametcelikbicak&theme=react-dark&hide_border=true&area=true&radius=8" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sametcelikbicak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sametcelikbicak&layout=compact&langs_count=10&theme=algolia&hide=Jupyter%20Notebook&border_radius=8"/>
 </p>
 
 ### 📚 &nbsp; Latest Blog Posts &nbsp; 📚
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML &amp; CSS &amp; TypeScript](https://sametcelikbicak.com/html-css-typescript)
+
+- [HTML & CSS & TypeScript](https://sametcelikbicak.com/html-css-typescript)
 - [Angular absolute import/path](https://sametcelikbicak.com/angular-absolute-importpath)
 - [MacOs dock için ayraç ekleme](https://sametcelikbicak.com/macos-dock-icin-ayrac-ekleme)
 - [Angular custom decorator](https://sametcelikbicak.com/angular-custom-decorator)
@@ -56,11 +64,7 @@ Here are some ideas to get you started:
 
 ➡️ [more blog posts...](https://sametcelikbicak.com)
 
-### ⚡ Recent Activity 👨‍💻
+### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
+
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/rolecraft-sh/skills/pull/4) in [rolecraft-sh/skills](https://github.com/rolecraft-sh/skills)
-2. 🎉 Merged PR [#14](https://github.com/rolecraft-sh/registry/pull/14) in [rolecraft-sh/registry](https://github.com/rolecraft-sh/registry)
-3. 🗣 Commented on [#14](https://github.com/rolecraft-sh/registry/pull/14#issuecomment-5084044565) in [rolecraft-sh/registry](https://github.com/rolecraft-sh/registry)
-4. 💪 Opened PR [#14](https://github.com/rolecraft-sh/registry/pull/14) in [rolecraft-sh/registry](https://github.com/rolecraft-sh/registry)
-5. 💪 Opened PR [#4](https://github.com/rolecraft-sh/skills/pull/4) in [rolecraft-sh/skills](https://github.com/rolecraft-sh/skills)
 <!--END_SECTION:activity-->
