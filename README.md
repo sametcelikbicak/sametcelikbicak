@@ -54,12 +54,11 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📚 &nbsp; Latest Blog Posts &nbsp; 📚
 
 <!-- BLOG-POST-LIST:START -->
-
-- [HTML & CSS & TypeScript](https://sametcelikbicak.com/html-css-typescript)
-- [Angular absolute import/path](https://sametcelikbicak.com/angular-absolute-importpath)
-- [MacOs dock için ayraç ekleme](https://sametcelikbicak.com/macos-dock-icin-ayrac-ekleme)
-- [Angular custom decorator](https://sametcelikbicak.com/angular-custom-decorator)
-- [Angular custom guard](https://sametcelikbicak.com/angular-custom-guard)
+- [Ücretsiz AI ekibi oluşturma](https://sametcelikbicak.com/blog/ucretsiz-ai-ekibi-olusturma)
+- [Modern TypeScript Tips: Cleaner Code](https://sametcelikbicak.com/blog/modern-typescript-ipucu)
+- [Modern TypeScript İpuçları: Daha Temiz Kod](https://sametcelikbicak.com/blog/modern-typescript-ipucu)
+- [HTML &amp; CSS &amp; TypeScript](https://sametcelikbicak.com/blog/html-css-typescript)
+- [Angular Absolute Import/Path](https://sametcelikbicak.com/blog/angular-absolute-importpath)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://sametcelikbicak.com)
