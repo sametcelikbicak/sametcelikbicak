@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#119](https://github.com/rolecraft-sh/rolecraft/issues/119) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-2. 🗣 Commented on [#158](https://github.com/rolecraft-sh/rolecraft/pull/158#issuecomment-5141013357) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-3. 🎉 Merged PR [#198](https://github.com/rolecraft-sh/rolecraft/pull/198) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-4. 💪 Opened PR [#198](https://github.com/rolecraft-sh/rolecraft/pull/198) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-5. 🗣 Commented on [#158](https://github.com/rolecraft-sh/rolecraft/pull/158#issuecomment-5130254077) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-6. 🗣 Commented on [#163](https://github.com/rolecraft-sh/rolecraft/pull/163#issuecomment-5130251512) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-7. 🎉 Merged PR [#197](https://github.com/rolecraft-sh/rolecraft/pull/197) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-8. 💪 Opened PR [#197](https://github.com/rolecraft-sh/rolecraft/pull/197) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+1. 🎉 Merged PR [#74](https://github.com/sametcelikbicak/web-site/pull/74) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+2. 🎉 Merged PR [#200](https://github.com/rolecraft-sh/rolecraft/pull/200) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+3. 💪 Opened PR [#200](https://github.com/rolecraft-sh/rolecraft/pull/200) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+4. 🎉 Merged PR [#199](https://github.com/rolecraft-sh/rolecraft/pull/199) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+5. 💪 Opened PR [#199](https://github.com/rolecraft-sh/rolecraft/pull/199) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+6. 💪 Opened PR [#74](https://github.com/sametcelikbicak/web-site/pull/74) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+7. 🔒 Closed issue [#119](https://github.com/rolecraft-sh/rolecraft/issues/119) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+8. 🗣 Commented on [#158](https://github.com/rolecraft-sh/rolecraft/pull/158#issuecomment-5141013357) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
 <!--END_SECTION:activity-->
