@@ -54,11 +54,11 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📚 &nbsp; Latest Blog Posts &nbsp; 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [200&#39;den 1013 Teste: RoleCraft&#39;ta Test Stratejisi](https://sametcelikbicak.com/blog/200den-1013-teste-test-stratejisi)
 - [Sıfır Bağımlılıkla CLI Nasıl Yazılır? RoleCraft&#39;ın Mimarisi](https://sametcelikbicak.com/blog/sifir-bagimlilikla-cli-nasil-yazilir)
 - [Ücretsiz AI ekibi oluşturma](https://sametcelikbicak.com/blog/ucretsiz-ai-ekibi-olusturma)
 - [Modern TypeScript Tips: Cleaner Code](https://sametcelikbicak.com/blog/modern-typescript-ipucu)
 - [Modern TypeScript İpuçları: Daha Temiz Kod](https://sametcelikbicak.com/blog/modern-typescript-ipucu)
-- [HTML &amp; CSS &amp; TypeScript](https://sametcelikbicak.com/blog/html-css-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://sametcelikbicak.com)
