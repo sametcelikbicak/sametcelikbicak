@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/sametcelikbicak/web-site/pull/77) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-2. 💪 Opened PR [#77](https://github.com/sametcelikbicak/web-site/pull/77) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-3. 🎉 Merged PR [#221](https://github.com/rolecraft-sh/rolecraft/pull/221) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-4. 💪 Opened PR [#221](https://github.com/rolecraft-sh/rolecraft/pull/221) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-5. 🎉 Merged PR [#220](https://github.com/rolecraft-sh/rolecraft/pull/220) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-6. 🎉 Merged PR [#6](https://github.com/rolecraft-sh/skills/pull/6) in [rolecraft-sh/skills](https://github.com/rolecraft-sh/skills)
-7. 💪 Opened PR [#220](https://github.com/rolecraft-sh/rolecraft/pull/220) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-8. 💪 Opened PR [#6](https://github.com/rolecraft-sh/skills/pull/6) in [rolecraft-sh/skills](https://github.com/rolecraft-sh/skills)
+1. 🎉 Merged PR [#223](https://github.com/rolecraft-sh/rolecraft/pull/223) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+2. 💪 Opened PR [#223](https://github.com/rolecraft-sh/rolecraft/pull/223) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+3. 🎉 Merged PR [#222](https://github.com/rolecraft-sh/rolecraft/pull/222) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+4. 💪 Opened PR [#222](https://github.com/rolecraft-sh/rolecraft/pull/222) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+5. 🎉 Merged PR [#78](https://github.com/sametcelikbicak/web-site/pull/78) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+6. 💪 Opened PR [#78](https://github.com/sametcelikbicak/web-site/pull/78) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+7. 🎉 Merged PR [#77](https://github.com/sametcelikbicak/web-site/pull/77) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+8. 💪 Opened PR [#77](https://github.com/sametcelikbicak/web-site/pull/77) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
 <!--END_SECTION:activity-->
