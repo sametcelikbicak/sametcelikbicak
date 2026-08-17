@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/rolecraft-sh/rolecraft-action/pull/4) in [rolecraft-sh/rolecraft-action](https://github.com/rolecraft-sh/rolecraft-action)
-2. 🎉 Merged PR [#218](https://github.com/rolecraft-sh/rolecraft/pull/218) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-3. 💪 Opened PR [#4](https://github.com/rolecraft-sh/rolecraft-action/pull/4) in [rolecraft-sh/rolecraft-action](https://github.com/rolecraft-sh/rolecraft-action)
-4. 💪 Opened PR [#218](https://github.com/rolecraft-sh/rolecraft/pull/218) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-5. 🗣 Commented on [#203](https://github.com/rolecraft-sh/rolecraft/issues/203#issuecomment-5290428672) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-6. 🔒 Closed issue [#203](https://github.com/rolecraft-sh/rolecraft/issues/203) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-7. 🎉 Merged PR [#107](https://github.com/f/wvw.dev/pull/107) in [f/wvw.dev](https://github.com/f/wvw.dev)
-8. 🎉 Merged PR [#217](https://github.com/rolecraft-sh/rolecraft/pull/217) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+1. 🎉 Merged PR [#77](https://github.com/sametcelikbicak/web-site/pull/77) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+2. 💪 Opened PR [#77](https://github.com/sametcelikbicak/web-site/pull/77) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+3. 🎉 Merged PR [#221](https://github.com/rolecraft-sh/rolecraft/pull/221) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+4. 💪 Opened PR [#221](https://github.com/rolecraft-sh/rolecraft/pull/221) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+5. 🎉 Merged PR [#220](https://github.com/rolecraft-sh/rolecraft/pull/220) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+6. 🎉 Merged PR [#6](https://github.com/rolecraft-sh/skills/pull/6) in [rolecraft-sh/skills](https://github.com/rolecraft-sh/skills)
+7. 💪 Opened PR [#220](https://github.com/rolecraft-sh/rolecraft/pull/220) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+8. 💪 Opened PR [#6](https://github.com/rolecraft-sh/skills/pull/6) in [rolecraft-sh/skills](https://github.com/rolecraft-sh/skills)
 <!--END_SECTION:activity-->
