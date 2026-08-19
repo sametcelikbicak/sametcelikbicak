@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#225](https://github.com/rolecraft-sh/rolecraft/pull/225) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-2. 💪 Opened PR [#225](https://github.com/rolecraft-sh/rolecraft/pull/225) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-3. 🔒 Closed issue [#92](https://github.com/rolecraft-sh/rolecraft/issues/92) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-4. 🗣 Commented on [#163](https://github.com/rolecraft-sh/rolecraft/pull/163#issuecomment-5330450283) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-5. ❌ Closed PR [#440](https://github.com/awesome-opencode/awesome-opencode/pull/440) in [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)
-6. 💪 Opened PR [#615](https://github.com/awesome-opencode/awesome-opencode/pull/615) in [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)
-7. 🎉 Merged PR [#224](https://github.com/rolecraft-sh/rolecraft/pull/224) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-8. 💪 Opened PR [#224](https://github.com/rolecraft-sh/rolecraft/pull/224) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+1. 🚀 Published release [Release v0.1.0](https://github.com/rolecraft-sh/rolecraft/releases/tag/v0.1.0) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+2. 🚀 Published release [Release v0.1.2](https://github.com/rolecraft-sh/rolecraft/releases/tag/v0.1.2) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+3. 🚀 Published release [Release v0.1.3](https://github.com/rolecraft-sh/rolecraft/releases/tag/v0.1.3) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+4. 🚀 Published release [Release v0.1.4](https://github.com/rolecraft-sh/rolecraft/releases/tag/v0.1.4) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+5. 🚀 Published release [Release v0.2.0](https://github.com/rolecraft-sh/rolecraft/releases/tag/v0.2.0) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+6. 🚀 Published release [Release v1.0.0](https://github.com/rolecraft-sh/rolecraft/releases/tag/v1.0.0) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+7. 🚀 Published release [Release v1.1.0](https://github.com/rolecraft-sh/rolecraft/releases/tag/v1.1.0) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+8. 🚀 Published release [Release v1.2.0](https://github.com/rolecraft-sh/rolecraft/releases/tag/v1.2.0) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
 <!--END_SECTION:activity-->
