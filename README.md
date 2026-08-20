@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/philipbankier/awesome-agent-skills/pull/21#issuecomment-5344249525) in [philipbankier/awesome-agent-skills](https://github.com/philipbankier/awesome-agent-skills)
-2. 🗣 Commented on [#2](https://github.com/ATOM00blue/awesome-agent-skills/pull/2#issuecomment-5344248413) in [ATOM00blue/awesome-agent-skills](https://github.com/ATOM00blue/awesome-agent-skills)
-3. 🗣 Commented on [#1](https://github.com/kenchikuliu/awesome-ai-test-skills/pull/1#issuecomment-5344248812) in [kenchikuliu/awesome-ai-test-skills](https://github.com/kenchikuliu/awesome-ai-test-skills)
-4. 🗣 Commented on [#55](https://github.com/total-typescript/total-typescript-book/pull/55#issuecomment-5344249761) in [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book)
-5. 🗣 Commented on [#441](https://github.com/awesome-opencode/awesome-opencode/pull/441#issuecomment-5344249265) in [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)
-6. 🗣 Commented on [#22](https://github.com/philipbankier/awesome-agent-skills/pull/22#issuecomment-5344249011) in [philipbankier/awesome-agent-skills](https://github.com/philipbankier/awesome-agent-skills)
-7. 🗣 Commented on [#288](https://github.com/heilcheng/awesome-agent-skills/pull/288#issuecomment-5344248613) in [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)
-8. 🗣 Commented on [#483](https://github.com/ai-for-developers/awesome-ai-coding-tools/pull/483#issuecomment-5344248228) in [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)
+1. 🗣 Commented on [#62](https://github.com/rolecraft-sh/rolecraft/pull/62#issuecomment-5357263611) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+2. 🗣 Commented on [#104](https://github.com/rolecraft-sh/rolecraft/pull/104#issuecomment-5357261387) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+3. 🗣 Commented on [#113](https://github.com/rolecraft-sh/rolecraft/pull/113#issuecomment-5357260245) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+4. 🗣 Commented on [#114](https://github.com/rolecraft-sh/rolecraft/pull/114#issuecomment-5357259259) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+5. 🗣 Commented on [#120](https://github.com/rolecraft-sh/rolecraft/pull/120#issuecomment-5357258293) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+6. 🗣 Commented on [#158](https://github.com/rolecraft-sh/rolecraft/pull/158#issuecomment-5357257292) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+7. 🗣 Commented on [#163](https://github.com/rolecraft-sh/rolecraft/pull/163#issuecomment-5357256176) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+8. 🗣 Commented on [#171](https://github.com/rolecraft-sh/rolecraft/pull/171#issuecomment-5357255099) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
 <!--END_SECTION:activity-->
