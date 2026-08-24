@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#248](https://github.com/rolecraft-sh/rolecraft/pull/248) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-2. 🗣 Commented on [#248](https://github.com/rolecraft-sh/rolecraft/pull/248#issuecomment-5388807485) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-3. ❌ Closed PR [#247](https://github.com/rolecraft-sh/rolecraft/pull/247) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-4. 🗣 Commented on [#247](https://github.com/rolecraft-sh/rolecraft/pull/247#issuecomment-5388807320) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-5. 🎉 Merged PR [#250](https://github.com/rolecraft-sh/rolecraft/pull/250) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-6. 💪 Opened PR [#250](https://github.com/rolecraft-sh/rolecraft/pull/250) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-7. 🔒 Closed issue [#240](https://github.com/rolecraft-sh/rolecraft/issues/240) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-8. 🗣 Commented on [#240](https://github.com/rolecraft-sh/rolecraft/issues/240#issuecomment-5388775684) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+1. 🚀 Published release [Release v2.4.0](https://github.com/rolecraft-sh/rolecraft/releases/tag/v2.4.0) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+2. 💪 Opened PR [#257](https://github.com/rolecraft-sh/rolecraft/pull/257) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+3. 🎉 Merged PR [#257](https://github.com/rolecraft-sh/rolecraft/pull/257) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+4. 💪 Opened PR [#2806](https://github.com/DeepSourceCorp/good-first-issue/pull/2806) in [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue)
+5. 💪 Opened PR [#6081](https://github.com/up-for-grabs/up-for-grabs.net/pull/6081) in [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)
+6. ℹ️ Labeled issue [#109](https://github.com/rolecraft-sh/rolecraft/issues/109) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+7. ℹ️ Labeled issue [#109](https://github.com/rolecraft-sh/rolecraft/issues/109) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+8. ℹ️ Labeled issue [#243](https://github.com/rolecraft-sh/rolecraft/issues/243) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
 <!--END_SECTION:activity-->
