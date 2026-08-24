@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#246](https://github.com/rolecraft-sh/rolecraft/pull/246) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-2. 💪 Opened PR [#246](https://github.com/rolecraft-sh/rolecraft/pull/246) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-3. 🗣 Commented on [#62](https://github.com/rolecraft-sh/rolecraft/pull/62#issuecomment-5357263611) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-4. 🗣 Commented on [#104](https://github.com/rolecraft-sh/rolecraft/pull/104#issuecomment-5357261387) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-5. 🗣 Commented on [#113](https://github.com/rolecraft-sh/rolecraft/pull/113#issuecomment-5357260245) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-6. 🗣 Commented on [#114](https://github.com/rolecraft-sh/rolecraft/pull/114#issuecomment-5357259259) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-7. 🗣 Commented on [#120](https://github.com/rolecraft-sh/rolecraft/pull/120#issuecomment-5357258293) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-8. 🗣 Commented on [#158](https://github.com/rolecraft-sh/rolecraft/pull/158#issuecomment-5357257292) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+1. ❌ Closed PR [#248](https://github.com/rolecraft-sh/rolecraft/pull/248) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+2. 🗣 Commented on [#248](https://github.com/rolecraft-sh/rolecraft/pull/248#issuecomment-5388807485) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+3. ❌ Closed PR [#247](https://github.com/rolecraft-sh/rolecraft/pull/247) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+4. 🗣 Commented on [#247](https://github.com/rolecraft-sh/rolecraft/pull/247#issuecomment-5388807320) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+5. 🎉 Merged PR [#250](https://github.com/rolecraft-sh/rolecraft/pull/250) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+6. 💪 Opened PR [#250](https://github.com/rolecraft-sh/rolecraft/pull/250) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+7. 🔒 Closed issue [#240](https://github.com/rolecraft-sh/rolecraft/issues/240) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+8. 🗣 Commented on [#240](https://github.com/rolecraft-sh/rolecraft/issues/240#issuecomment-5388775684) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
 <!--END_SECTION:activity-->
