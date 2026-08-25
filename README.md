@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#252](https://github.com/rolecraft-sh/rolecraft/issues/252) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-2. 🚀 Published release [Release v2.4.0](https://github.com/rolecraft-sh/rolecraft/releases/tag/v2.4.0) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-3. 💪 Opened PR [#257](https://github.com/rolecraft-sh/rolecraft/pull/257) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-4. 🎉 Merged PR [#257](https://github.com/rolecraft-sh/rolecraft/pull/257) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-5. 💪 Opened PR [#2806](https://github.com/DeepSourceCorp/good-first-issue/pull/2806) in [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue)
-6. 💪 Opened PR [#6081](https://github.com/up-for-grabs/up-for-grabs.net/pull/6081) in [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)
-7. ℹ️ Labeled issue [#109](https://github.com/rolecraft-sh/rolecraft/issues/109) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-8. ℹ️ Labeled issue [#109](https://github.com/rolecraft-sh/rolecraft/issues/109) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+1. 🔒 Closed issue [#252](https://github.com/rolecraft-sh/rolecraft/issues/252) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+2. 🗣 Commented on [#258](https://github.com/rolecraft-sh/rolecraft/pull/258#issuecomment-5407307568) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+3. 🗣 Commented on [#259](https://github.com/rolecraft-sh/rolecraft/pull/259#issuecomment-5407307310) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+4. 🗣 Commented on [#259](https://github.com/rolecraft-sh/rolecraft/pull/259#issuecomment-5407306519) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+5. 🔒 Closed issue [#233](https://github.com/rolecraft-sh/rolecraft/issues/233) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+6. ℹ️ Assigned issue [#252](https://github.com/rolecraft-sh/rolecraft/issues/252) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+7. 🚀 Published release [Release v2.4.0](https://github.com/rolecraft-sh/rolecraft/releases/tag/v2.4.0) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+8. 💪 Opened PR [#257](https://github.com/rolecraft-sh/rolecraft/pull/257) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
 <!--END_SECTION:activity-->
