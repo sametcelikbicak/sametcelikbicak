@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v2.4.2](https://github.com/rolecraft-sh/rolecraft/releases/tag/v2.4.2) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-2. 🎉 Merged PR [#286](https://github.com/rolecraft-sh/rolecraft/pull/286) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-3. 💪 Opened PR [#286](https://github.com/rolecraft-sh/rolecraft/pull/286) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-4. 🎉 Merged PR [#285](https://github.com/rolecraft-sh/rolecraft/pull/285) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-5. 💪 Opened PR [#285](https://github.com/rolecraft-sh/rolecraft/pull/285) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-6. ❗ Opened issue [#9622](https://github.com/earendil-works/pi/issues/9622) in [earendil-works/pi](https://github.com/earendil-works/pi)
-7. 🗣 Commented on [#243](https://github.com/rolecraft-sh/rolecraft/issues/243#issuecomment-5663235133) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-8. 🔒 Closed issue [#243](https://github.com/rolecraft-sh/rolecraft/issues/243) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+1. 🎉 Merged PR [#64](https://github.com/makifbaysal/tasktrooper/pull/64) in [makifbaysal/tasktrooper](https://github.com/makifbaysal/tasktrooper)
+2. 💪 Opened PR [#64](https://github.com/makifbaysal/tasktrooper/pull/64) in [makifbaysal/tasktrooper](https://github.com/makifbaysal/tasktrooper)
+3. 🎉 Merged PR [#63](https://github.com/makifbaysal/tasktrooper/pull/63) in [makifbaysal/tasktrooper](https://github.com/makifbaysal/tasktrooper)
+4. 💪 Opened PR [#63](https://github.com/makifbaysal/tasktrooper/pull/63) in [makifbaysal/tasktrooper](https://github.com/makifbaysal/tasktrooper)
+5. 🎉 Merged PR [#60](https://github.com/makifbaysal/tasktrooper/pull/60) in [makifbaysal/tasktrooper](https://github.com/makifbaysal/tasktrooper)
+6. 🗣 Commented on [#60](https://github.com/makifbaysal/tasktrooper/pull/60#issuecomment-5727554860) in [makifbaysal/tasktrooper](https://github.com/makifbaysal/tasktrooper)
+7. 💪 Opened PR [#60](https://github.com/makifbaysal/tasktrooper/pull/60) in [makifbaysal/tasktrooper](https://github.com/makifbaysal/tasktrooper)
+8. 🚀 Published release [Release v2.4.2](https://github.com/rolecraft-sh/rolecraft/releases/tag/v2.4.2) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
 <!--END_SECTION:activity-->
