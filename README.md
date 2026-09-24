@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6081](https://github.com/up-for-grabs/up-for-grabs.net/pull/6081) in [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)
-2. 🎉 Merged PR [#483](https://github.com/ai-for-developers/awesome-ai-coding-tools/pull/483) in [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)
-3. 🎉 Merged PR [#289](https://github.com/rolecraft-sh/rolecraft/pull/289) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-4. 💪 Opened PR [#289](https://github.com/rolecraft-sh/rolecraft/pull/289) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-5. ❌ Closed PR [#288](https://github.com/rolecraft-sh/rolecraft/pull/288) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-6. 🗣 Commented on [#288](https://github.com/rolecraft-sh/rolecraft/pull/288#issuecomment-5728913742) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-7. ❌ Closed PR [#287](https://github.com/rolecraft-sh/rolecraft/pull/287) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-8. 🗣 Commented on [#287](https://github.com/rolecraft-sh/rolecraft/pull/287#issuecomment-5728913292) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+1. 🎉 Merged PR [#74](https://github.com/rolecraft-sh/rolecraft-vscode/pull/74) in [rolecraft-sh/rolecraft-vscode](https://github.com/rolecraft-sh/rolecraft-vscode)
+2. 💪 Opened PR [#74](https://github.com/rolecraft-sh/rolecraft-vscode/pull/74) in [rolecraft-sh/rolecraft-vscode](https://github.com/rolecraft-sh/rolecraft-vscode)
+3. 🎉 Merged PR [#6081](https://github.com/up-for-grabs/up-for-grabs.net/pull/6081) in [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)
+4. 🎉 Merged PR [#483](https://github.com/ai-for-developers/awesome-ai-coding-tools/pull/483) in [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)
+5. 🎉 Merged PR [#289](https://github.com/rolecraft-sh/rolecraft/pull/289) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+6. 💪 Opened PR [#289](https://github.com/rolecraft-sh/rolecraft/pull/289) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+7. ❌ Closed PR [#288](https://github.com/rolecraft-sh/rolecraft/pull/288) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+8. 🗣 Commented on [#288](https://github.com/rolecraft-sh/rolecraft/pull/288#issuecomment-5728913742) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
 <!--END_SECTION:activity-->
