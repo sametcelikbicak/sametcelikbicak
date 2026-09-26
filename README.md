@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#310](https://github.com/rolecraft-sh/rolecraft/issues/310) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-2. ℹ️ Labeled issue [#310](https://github.com/rolecraft-sh/rolecraft/issues/310) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-3. ℹ️ Labeled issue [#310](https://github.com/rolecraft-sh/rolecraft/issues/310) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-4. ℹ️ Labeled issue [#309](https://github.com/rolecraft-sh/rolecraft/issues/309) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-5. ℹ️ Labeled issue [#309](https://github.com/rolecraft-sh/rolecraft/issues/309) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-6. ❗ Opened issue [#309](https://github.com/rolecraft-sh/rolecraft/issues/309) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-7. ❗ Opened issue [#308](https://github.com/rolecraft-sh/rolecraft/issues/308) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-8. ℹ️ Labeled issue [#308](https://github.com/rolecraft-sh/rolecraft/issues/308) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+1. ℹ️ Labeled issue [#317](https://github.com/rolecraft-sh/rolecraft/issues/317) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+2. ℹ️ Labeled issue [#317](https://github.com/rolecraft-sh/rolecraft/issues/317) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+3. ❗ Opened issue [#317](https://github.com/rolecraft-sh/rolecraft/issues/317) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+4. ℹ️ Labeled issue [#316](https://github.com/rolecraft-sh/rolecraft/issues/316) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+5. ℹ️ Labeled issue [#316](https://github.com/rolecraft-sh/rolecraft/issues/316) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+6. ❗ Opened issue [#316](https://github.com/rolecraft-sh/rolecraft/issues/316) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+7. 🔒 Closed issue [#304](https://github.com/rolecraft-sh/rolecraft/issues/304) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+8. 🔒 Closed issue [#293](https://github.com/rolecraft-sh/rolecraft/issues/293) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
 <!--END_SECTION:activity-->
