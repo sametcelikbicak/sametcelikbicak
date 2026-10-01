@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#387](https://github.com/rolecraft-sh/rolecraft/pull/387) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-2. 💪 Opened PR [#387](https://github.com/rolecraft-sh/rolecraft/pull/387) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-3. ℹ️ Assigned issue [#375](https://github.com/rolecraft-sh/rolecraft/issues/375) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-4. ℹ️ Labeled issue [#375](https://github.com/rolecraft-sh/rolecraft/issues/375) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-5. ℹ️ Labeled issue [#375](https://github.com/rolecraft-sh/rolecraft/issues/375) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-6. ℹ️ Labeled issue [#375](https://github.com/rolecraft-sh/rolecraft/issues/375) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-7. ℹ️ Labeled issue [#375](https://github.com/rolecraft-sh/rolecraft/issues/375) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-8. 🗣 Commented on [#385](https://github.com/rolecraft-sh/rolecraft/pull/385#issuecomment-5930695190) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+1. ℹ️ Labeled issue [#369](https://github.com/rolecraft-sh/rolecraft/issues/369) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+2. ℹ️ Unlabeled issue [#369](https://github.com/rolecraft-sh/rolecraft/issues/369) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+3. 🗣 Commented on [#375](https://github.com/rolecraft-sh/rolecraft/issues/375#issuecomment-5930794545) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+4. ℹ️ Labeled issue [#388](https://github.com/rolecraft-sh/rolecraft/issues/388) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+5. ℹ️ Labeled issue [#388](https://github.com/rolecraft-sh/rolecraft/issues/388) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+6. ℹ️ Labeled issue [#388](https://github.com/rolecraft-sh/rolecraft/issues/388) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+7. ❗ Opened issue [#388](https://github.com/rolecraft-sh/rolecraft/issues/388) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+8. 🗣 Commented on [#369](https://github.com/rolecraft-sh/rolecraft/issues/369#issuecomment-5932640015) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
 <!--END_SECTION:activity-->
