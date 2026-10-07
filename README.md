@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#442](https://github.com/rolecraft-sh/rolecraft/pull/442) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-2. 🔒 Closed issue [#306](https://github.com/rolecraft-sh/rolecraft/issues/306) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-3. 💪 Opened PR [#442](https://github.com/rolecraft-sh/rolecraft/pull/442) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-4. ℹ️ Assigned issue [#306](https://github.com/rolecraft-sh/rolecraft/issues/306) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-5. 🔒 Closed issue [#296](https://github.com/rolecraft-sh/rolecraft/issues/296) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-6. 🎉 Merged PR [#441](https://github.com/rolecraft-sh/rolecraft/pull/441) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-7. 💪 Opened PR [#441](https://github.com/rolecraft-sh/rolecraft/pull/441) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-8. ℹ️ Assigned issue [#296](https://github.com/rolecraft-sh/rolecraft/issues/296) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+1. 🎉 Merged PR [#447](https://github.com/rolecraft-sh/rolecraft/pull/447) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+2. 💪 Opened PR [#447](https://github.com/rolecraft-sh/rolecraft/pull/447) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+3. 🎉 Merged PR [#446](https://github.com/rolecraft-sh/rolecraft/pull/446) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+4. 💪 Opened PR [#446](https://github.com/rolecraft-sh/rolecraft/pull/446) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+5. 🚀 Published release [Release v2.6.0](https://github.com/rolecraft-sh/rolecraft/releases/tag/v2.6.0) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+6. 🎉 Merged PR [#445](https://github.com/rolecraft-sh/rolecraft/pull/445) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+7. 💪 Opened PR [#445](https://github.com/rolecraft-sh/rolecraft/pull/445) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+8. 🎉 Merged PR [#444](https://github.com/rolecraft-sh/rolecraft/pull/444) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
 <!--END_SECTION:activity-->
