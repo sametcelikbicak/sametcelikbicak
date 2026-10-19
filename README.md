@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/sametcelikbicak/web-site/pull/113) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-2. 💪 Opened PR [#113](https://github.com/sametcelikbicak/web-site/pull/113) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-3. 🎉 Merged PR [#112](https://github.com/sametcelikbicak/web-site/pull/112) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-4. 💪 Opened PR [#112](https://github.com/sametcelikbicak/web-site/pull/112) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-5. 🎉 Merged PR [#111](https://github.com/sametcelikbicak/web-site/pull/111) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-6. 💪 Opened PR [#111](https://github.com/sametcelikbicak/web-site/pull/111) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-7. 🎉 Merged PR [#110](https://github.com/sametcelikbicak/web-site/pull/110) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-8. 💪 Opened PR [#110](https://github.com/sametcelikbicak/web-site/pull/110) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+1. 💪 Opened PR [#115](https://github.com/sametcelikbicak/web-site/pull/115) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+2. 💪 Opened PR [#114](https://github.com/sametcelikbicak/web-site/pull/114) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+3. 🎉 Merged PR [#113](https://github.com/sametcelikbicak/web-site/pull/113) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+4. 💪 Opened PR [#113](https://github.com/sametcelikbicak/web-site/pull/113) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+5. 🎉 Merged PR [#112](https://github.com/sametcelikbicak/web-site/pull/112) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+6. 💪 Opened PR [#112](https://github.com/sametcelikbicak/web-site/pull/112) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+7. 🎉 Merged PR [#111](https://github.com/sametcelikbicak/web-site/pull/111) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+8. 💪 Opened PR [#111](https://github.com/sametcelikbicak/web-site/pull/111) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
 <!--END_SECTION:activity-->
