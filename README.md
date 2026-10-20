@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [vidfix 1.0.0](https://github.com/sametcelikbicak/homebrew-tap/releases/tag/v1.0.0) in [sametcelikbicak/homebrew-tap](https://github.com/sametcelikbicak/homebrew-tap)
-2. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/vidfix/pull/1) in [sametcelikbicak/vidfix](https://github.com/sametcelikbicak/vidfix)
-3. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/homebrew-tap/pull/1) in [sametcelikbicak/homebrew-tap](https://github.com/sametcelikbicak/homebrew-tap)
-4. 💪 Opened PR [#1](https://github.com/sametcelikbicak/homebrew-tap/pull/1) in [sametcelikbicak/homebrew-tap](https://github.com/sametcelikbicak/homebrew-tap)
-5. 💪 Opened PR [#1](https://github.com/sametcelikbicak/vidfix/pull/1) in [sametcelikbicak/vidfix](https://github.com/sametcelikbicak/vidfix)
-6. 🎉 Merged PR [#115](https://github.com/sametcelikbicak/web-site/pull/115) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-7. 🎉 Merged PR [#114](https://github.com/sametcelikbicak/web-site/pull/114) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-8. 🎉 Merged PR [#116](https://github.com/sametcelikbicak/web-site/pull/116) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+1. 🎉 Merged PR [#117](https://github.com/sametcelikbicak/web-site/pull/117) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+2. 💪 Opened PR [#117](https://github.com/sametcelikbicak/web-site/pull/117) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
+3. 🎉 Merged PR [#520](https://github.com/rolecraft-sh/rolecraft/pull/520) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+4. 🎉 Merged PR [#2](https://github.com/sametcelikbicak/homebrew-tap/pull/2) in [sametcelikbicak/homebrew-tap](https://github.com/sametcelikbicak/homebrew-tap)
+5. 💪 Opened PR [#520](https://github.com/rolecraft-sh/rolecraft/pull/520) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
+6. 💪 Opened PR [#2](https://github.com/sametcelikbicak/homebrew-tap/pull/2) in [sametcelikbicak/homebrew-tap](https://github.com/sametcelikbicak/homebrew-tap)
+7. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/vidfix/pull/1) in [sametcelikbicak/vidfix](https://github.com/sametcelikbicak/vidfix)
+8. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/homebrew-tap/pull/1) in [sametcelikbicak/homebrew-tap](https://github.com/sametcelikbicak/homebrew-tap)
 <!--END_SECTION:activity-->
