@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/sametcelikbicak/opencode-team/pull/2) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
-2. 💪 Opened PR [#1](https://github.com/sametcelikbicak/opencode-team/pull/1) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
-3. 🎉 Merged PR [#117](https://github.com/sametcelikbicak/web-site/pull/117) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-4. 💪 Opened PR [#117](https://github.com/sametcelikbicak/web-site/pull/117) in [sametcelikbicak/web-site](https://github.com/sametcelikbicak/web-site)
-5. 🎉 Merged PR [#520](https://github.com/rolecraft-sh/rolecraft/pull/520) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-6. 🎉 Merged PR [#2](https://github.com/sametcelikbicak/homebrew-tap/pull/2) in [sametcelikbicak/homebrew-tap](https://github.com/sametcelikbicak/homebrew-tap)
-7. 💪 Opened PR [#520](https://github.com/rolecraft-sh/rolecraft/pull/520) in [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft)
-8. 💪 Opened PR [#2](https://github.com/sametcelikbicak/homebrew-tap/pull/2) in [sametcelikbicak/homebrew-tap](https://github.com/sametcelikbicak/homebrew-tap)
+1. 🎉 Merged PR [#2](https://github.com/sametcelikbicak/opencode-team/pull/2) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+2. 🎉 Merged PR [#3](https://github.com/sametcelikbicak/opencode-team/pull/3) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+3. 🎉 Merged PR [#4](https://github.com/sametcelikbicak/opencode-team/pull/4) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+4. 💪 Opened PR [#4](https://github.com/sametcelikbicak/opencode-team/pull/4) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+5. 🚀 Published release [v1.0.0](https://github.com/sametcelikbicak/opencode-team/releases/tag/v1.0.0) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+6. 💪 Opened PR [#3](https://github.com/sametcelikbicak/opencode-team/pull/3) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+7. 🎉 Merged PR [#1](https://github.com/sametcelikbicak/opencode-team/pull/1) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+8. 💪 Opened PR [#2](https://github.com/sametcelikbicak/opencode-team/pull/2) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
 <!--END_SECTION:activity-->
