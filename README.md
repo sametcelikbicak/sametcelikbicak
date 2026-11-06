@@ -66,12 +66,12 @@ I possess extensive experience in software development. I have developed web (fr
 ### 📊 &nbsp;Recent Activity &nbsp; 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#125](https://github.com/sametcelikbicak/opencode-team/pull/125) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
-2. 🎉 Merged PR [#124](https://github.com/sametcelikbicak/opencode-team/pull/124) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
-3. 💪 Opened PR [#124](https://github.com/sametcelikbicak/opencode-team/pull/124) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
-4. 🗣 Commented on [#46](https://github.com/sametcelikbicak/opencode-team/issues/46#issuecomment-6654937902) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
-5. 🚀 Published release [Release v1.0.0](https://github.com/sametcelikbicak/opencode-team/releases/tag/v1.0.0) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
-6. 🎉 Merged PR [#123](https://github.com/sametcelikbicak/opencode-team/pull/123) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
-7. 💪 Opened PR [#123](https://github.com/sametcelikbicak/opencode-team/pull/123) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
-8. 🎉 Merged PR [#122](https://github.com/sametcelikbicak/opencode-team/pull/122) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+1. 🗣 Commented on [#46](https://github.com/sametcelikbicak/opencode-team/issues/46#issuecomment-6661915045) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+2. 🎉 Merged PR [#128](https://github.com/sametcelikbicak/opencode-team/pull/128) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+3. 💪 Opened PR [#128](https://github.com/sametcelikbicak/opencode-team/pull/128) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+4. 🎉 Merged PR [#127](https://github.com/sametcelikbicak/opencode-team/pull/127) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+5. 💪 Opened PR [#127](https://github.com/sametcelikbicak/opencode-team/pull/127) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+6. 🎉 Merged PR [#126](https://github.com/sametcelikbicak/opencode-team/pull/126) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+7. 💪 Opened PR [#126](https://github.com/sametcelikbicak/opencode-team/pull/126) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
+8. 🎉 Merged PR [#125](https://github.com/sametcelikbicak/opencode-team/pull/125) in [sametcelikbicak/opencode-team](https://github.com/sametcelikbicak/opencode-team)
 <!--END_SECTION:activity-->
