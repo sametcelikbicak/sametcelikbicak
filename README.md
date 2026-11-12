@@ -29,22 +29,18 @@ I possess extensive experience in software development. I have developed web (fr
 ### 🛠 &nbsp;Tech Stack &nbsp; 🧰
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,react,nextjs,html,css,js,nodejs,npm,jest,github,git,vscode" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=angular,ts,react,nextjs,html,css,js,nodejs,npm,pnpm,github,git,vscode" alt="Tech Stack"/>
 </p>
 
 <details>
   <summary>🔸 Also familiar with</summary>
   <br/>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,docker,rider,vim,bitbucket,gitlab,yarn,pnpm" alt="Also familiar with"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,docker,rider,vim,bitbucket,gitlab,yarn,jest" alt="Also familiar with"/>
   </p>
 </details>
 
 ### ⚙️ &nbsp;GitHub Stats &nbsp;🧪
-
-<p align="center">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sametcelikbicak&theme=react-dark&hide_border=true&area=true&radius=8" />
-</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sametcelikbicak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=8"/>
